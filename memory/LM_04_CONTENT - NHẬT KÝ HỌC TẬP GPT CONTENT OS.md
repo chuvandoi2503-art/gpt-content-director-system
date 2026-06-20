@@ -349,3 +349,19 @@ Người dùng có thể đọc lại LM_04_CONTENT để hiểu:
 * Những gì đã thay đổi theo thời gian.
 
 Đây là giá trị chính của LM_04_CONTENT.
+
+# 14. Nhật ký học tập:
+
+- Kiểm chứng thành công GitHub Action.
+- Kiểm chứng thành công getContent.
+- Kiểm chứng thành công createOrUpdateFile.
+
+- Rút kinh nghiệm:
+
+  Owner/repo là cấu hình hệ thống.
+
+  Không nên phụ thuộc MEMORY_INDEX để tìm owner/repo.
+
+  Cấu hình hệ thống cần hardcode trong Instructions.
+
+- Hoàn thiện Instructions GPT Content OS phiên bản vận hành thực tế.
