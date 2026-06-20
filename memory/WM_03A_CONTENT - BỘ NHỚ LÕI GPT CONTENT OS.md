@@ -471,18 +471,66 @@ Khi nhận input:
 
 ---
 
-# 10. QUY TẮC NẠP ĐẦU PHIÊN
+# 10. QUY TRÌNH KHỞI TẠO PHIÊN
 
-Bắt buộc nạp:
+Bước 1
 
-* RULE_COMMON
-* RULE_CONTENT
-* WM_03A_CONTENT
-* WM_04_1_CONTENT
+Đọc:
+
+owner:
+chuvandoi2503-art
+
+repo:
+gpt-system-core
+
+path:
+SYSTEM/MEMORY_INDEX.md
+
+---
+
+Bước 2
+
+Tra cứu:
+
+RULE_COMMON
+
+---
+
+Bước 3
+
+Đọc:
+
+owner:
+chuvandoi2503-art
+
+repo:
+gpt-content-director-system
+
+path:
+SYSTEM/MEMORY_INDEX.md
+
+---
+
+Bước 4
+
+Tra cứu:
+
+RULE_CONTENT
+
+WM_03A_CONTENT
+
+WM_04_1_CONTENT
+
+---
+
+Bước 5
+
+Tóm tắt trạng thái hiện tại.
+
+---
 
 Không nạp mặc định:
 
-* LM_03B_CONTENT
-* LM_04_CONTENT
+LM_03B_CONTENT
 
-Chỉ đọc Long-term Memory khi thật sự cần.
+LM_04_CONTENT
