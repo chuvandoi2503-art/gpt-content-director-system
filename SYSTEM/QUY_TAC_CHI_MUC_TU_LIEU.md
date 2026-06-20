@@ -250,11 +250,11 @@ Không Phải Maybach Đâu
 
 ---
 
-GOCBO
+DLB
 
 =
 
-Góc Nhìn Của Bố
+Đợi Làm Bố
 
 ---
 
