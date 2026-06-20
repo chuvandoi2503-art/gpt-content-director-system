@@ -103,15 +103,49 @@ Xây IP từ câu nói đặc trưng của con.
 
 ---
 
-### Góc Nhìn Của Bố
+### Đợi Làm Bố
+
+Mã:
+
+DLB
 
 Trạng thái:
 
-Đang xây cấu trúc.
+Đã chốt tên.
 
 Mục tiêu:
 
 Góc nhìn của người bố.
+
+Định vị:
+
+Một người bố đang học cách làm bố.
+
+Không phải chuyên gia dạy con.
+
+Tuyến nội dung:
+
+* Nuôi con.
+* Đi làm.
+* Kiếm tiền.
+* Cân bằng gia đình.
+* Những lần bất lực.
+* Những lần tiến bộ.
+* Những bài học thật.
+
+Vai trò trong hệ sinh thái:
+
+# Nhà Có Maybach
+
+Góc nhìn gia đình
+
+# Không Phải Maybach Đâu
+
+Góc nhìn đứa trẻ
+
+# Đợi Làm Bố
+
+Góc nhìn người bố
 
 ---
 
