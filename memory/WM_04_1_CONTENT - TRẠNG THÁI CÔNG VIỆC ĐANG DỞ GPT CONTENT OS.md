@@ -25,16 +25,33 @@ File này được phép thay đổi thường xuyên.
 
 GPT Content OS đang ở giai đoạn:
 
-KHỞI TẠO V1
+Đang hoàn thiện GPT Content OS.
 
-Mục tiêu hiện tại:
+Đã xác nhận:
 
-* Hoàn thiện cấu trúc GitHub.
-* Hoàn thiện GPT Builder.
-* Hoàn thiện Memory.
-* Hoàn thiện Rule.
-* Chuẩn bị vận hành thực tế.
+- GitHub Action hoạt động.
+- getContent hoạt động.
+- createOrUpdateFile hoạt động.
 
+Đã xác định nguyên nhân lỗi khởi tạo:
+
+- Không phải token.
+- Không phải schema.
+- Không phải GitHub.
+
+Nguyên nhân chính:
+
+- Instructions chưa hardcode owner/repo.
+- GPT Preview ưu tiên Knowledge Upload.
+
+Đã chốt phương án:
+
+- Hardcode:
+  owner: chuvandoi2503-art
+  core repo: gpt-system-core
+  content repo: gpt-content-director-system
+
+- Ưu tiên GitHub Action khi khởi tạo phiên.
 ---
 
 # 3. HỆ KÊNH ĐANG XÂY
