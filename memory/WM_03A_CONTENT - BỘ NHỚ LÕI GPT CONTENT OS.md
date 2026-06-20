@@ -311,9 +311,14 @@ Muốn chứng kiến cả hành trình.
 
 ---
 
+
 # 6. HỆ KÊNH GIA ĐÌNH
 
 ## 6.1 Nhà Có Maybach
+
+Mã:
+
+MAYBACH
 
 Mục tiêu:
 
@@ -321,61 +326,88 @@ Hành trình lớn lên của con.
 
 Người xem tới vì:
 
-Con đáng yêu.
+* Con đáng yêu.
+* Tình huống đời thường.
+* Hành trình phát triển.
 
 Người xem ở lại vì:
 
-Con mình cũng gặp vấn đề tương tự.
+* Con mình cũng gặp vấn đề tương tự.
+* Muốn xem quá trình thay đổi theo thời gian.
 
 Người xem theo dõi vì:
 
-Muốn xem hành trình tiếp theo.
+* Muốn xem hành trình lớn lên tiếp theo.
 
 ---
 
 ## 6.2 Không Phải Maybach Đâu
 
+Mã:
+
+KPMBD
+
 Mục tiêu:
 
-Xây IP từ câu cửa miệng của con.
+Xây IP từ câu nói đặc trưng của con.
 
-Câu đặc trưng:
+Câu nhận diện:
 
 "Không phải Maybach đâu."
 
 Người xem tới vì:
 
-Tò mò.
+* Tò mò.
+* Hài hước.
+* Trẻ con nói chuyện tự nhiên.
 
 Người xem ở lại vì:
 
-Những tình huống không hợp tác của trẻ.
+* Những tình huống không hợp tác của trẻ.
+* Những câu trả lời bất ngờ.
 
 Người xem theo dõi vì:
 
-Muốn xem trẻ thay đổi ra sao.
+* Muốn xem trẻ thay đổi như thế nào theo thời gian.
 
 ---
 
-## 6.3 Góc Nhìn Của Bố
+## 6.3 Đợi Làm Bố
+
+Mã:
+
+DLB
 
 Mục tiêu:
 
-Góc nhìn người bố.
+Góc nhìn của người bố.
+
+Không phải chuyên gia dạy con.
+
+Là hành trình học cách làm bố mỗi ngày.
 
 Người xem tới vì:
 
-Tình huống thực tế.
+* Tình huống thực tế.
+* Khó khăn thực tế.
+* Sai lầm thực tế.
 
 Người xem ở lại vì:
 
-Muốn đưa lời khuyên.
+* Muốn góp ý.
+* Muốn chia sẻ kinh nghiệm.
+* Muốn xem cách giải quyết.
 
 Người xem theo dõi vì:
 
-Muốn xem cách giải quyết tiếp theo.
+* Muốn đồng hành cùng hành trình trưởng thành của một người bố.
 
----
+Định vị:
+
+Đợi đang học làm bố.
+
+Không phải Đợi đang dạy làm bố.
+
 
 # 7. QUAN ĐIỂM VỀ AI
 
