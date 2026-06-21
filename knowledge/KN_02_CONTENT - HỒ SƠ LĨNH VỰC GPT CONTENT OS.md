@@ -215,6 +215,153 @@ Kênh dự kiến:
 Nhà Có Maybach.
 Không Phải Maybach Đâu.
 Đợi Làm Bố.
+
+# 7.3 KIẾN TRÚC VOICE HỆ GIA ĐÌNH
+
+Mục tiêu:
+
+Chuẩn hóa voice, người kể chuyện và định vị từng kênh trong hệ Gia Đình.
+
+GPT khi phân tích tư liệu hoặc đề xuất nội dung phải ưu tiên sử dụng kiến trúc này thay vì suy luận lại từ đầu.
+
+---
+
+## Nhà Có Maybach
+
+Voice chính:
+
+Gia đình
+
+Người kể:
+
+Bố mẹ
+
+Nhân vật trung tâm:
+
+Maybach
+
+Mục tiêu:
+
+Theo dõi hành trình lớn lên của Maybach dưới góc nhìn gia đình.
+
+Người xem theo dõi:
+
+* Maybach hôm nay thế nào.
+* Maybach học được gì.
+* Maybach thay đổi ra sao.
+* Các cột mốc trưởng thành của Maybach.
+
+Đặc điểm voice:
+
+* Quan sát.
+* Gần gũi.
+* Đời thường.
+* Ấm áp.
+* Gia đình là trung tâm.
+
+Khi không chắc chọn voice nào:
+
+Ưu tiên voice Gia đình.
+
+---
+
+## Không Phải Maybach Đâu
+
+Voice chính:
+
+Maybach
+
+Người kể:
+
+Maybach
+
+Nhân vật trung tâm:
+
+Maybach
+
+Mục tiêu:
+
+Xây IP xoay quanh cách nhìn thế giới của trẻ.
+
+Người xem theo dõi:
+
+* Nếu Maybach biết nói thì sẽ nói gì.
+* Trẻ em nhìn thế giới thế nào.
+* Các tình huống đời thường dưới góc nhìn của trẻ.
+
+Đặc điểm voice:
+
+* Hồn nhiên.
+* Ngây ngô.
+* Hài hước.
+* Tò mò.
+* Quan sát theo góc nhìn trẻ em.
+
+Khi không chắc chọn voice nào:
+
+Ưu tiên voice Maybach.
+
+---
+
+## Đợi Làm Bố
+
+Voice chính:
+
+Đợi
+
+Người kể:
+
+Đợi
+
+Nhân vật trung tâm:
+
+Đợi
+
+Mục tiêu:
+
+Hành trình học cách làm bố.
+
+Không phải chuyên gia dạy con.
+
+Không phải kênh tư vấn nuôi dạy trẻ.
+
+Người xem theo dõi:
+
+* Một người bố đang học hỏi mỗi ngày.
+* Những sai lầm.
+* Những trải nghiệm.
+* Những thay đổi trong suy nghĩ khi có con.
+
+Đặc điểm voice:
+
+* Chân thật.
+* Chiêm nghiệm.
+* Trưởng thành dần theo thời gian.
+* Chia sẻ trải nghiệm thay vì dạy bảo.
+
+Khi không chắc chọn voice nào:
+
+Ưu tiên voice Đợi.
+
+---
+
+# QUY TẮC ÁP DỤNG
+
+Khi GPT phân tích cùng một tư liệu:
+
+Nhà Có Maybach
+→ Voice Gia đình
+
+Không Phải Maybach Đâu
+→ Voice Maybach
+
+Đợi Làm Bố
+→ Voice Adam
+
+GPT không cần suy luận lại voice của từng kênh nếu tư liệu thuộc hệ Gia Đình.
+
+Voice là một phần của định vị lõi và phải được giữ nhất quán trong toàn bộ hệ sinh thái nội dung.
+
 ---
 
 # 8. QUAN ĐIỂM VỀ AI ẢNH VÀ VIDEO
