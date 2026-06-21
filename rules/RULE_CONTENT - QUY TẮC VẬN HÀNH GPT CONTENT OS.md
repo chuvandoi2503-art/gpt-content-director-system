@@ -307,14 +307,40 @@ Khi người dùng nói:
 
 "Kết thúc phiên"
 
-GPT phải tạo PATCH:
+GPT phải:
 
-* UPDATE_03A_CONTENT
-* UPDATE_03B_CONTENT
-* UPDATE_04_1_CONTENT
-* UPDATE_04_CONTENT
+1. Rà soát phiên làm việc.
+2. Tạo PATCH.
+3. Phân loại nội dung.
+4. Hiển thị PATCH.
+5. Chờ người dùng duyệt.
+
+Phân loại PATCH:
+
+* UPDATE_WM_03A_CONTENT
+* UPDATE_WM_04_1_CONTENT_DAILY
+* UPDATE_WM_04_1_CONTENT_LONG
+* UPDATE_LM_03B_CONTENT_CURRENT
+* UPDATE_LM_04_CONTENT_CURRENT
 * DISCARD
+
+Chỉ lưu:
+
+* Tri thức đã xác nhận.
+* Quy trình đã xác nhận.
+* Công việc đang dở thật sự cần tiếp tục.
+
+Không lưu:
+
+* Suy đoán.
+* Ý tưởng chưa kiểm chứng.
+* Nội dung tạm thời.
+* Caption nháp.
+* Hook nháp.
+* Script chi tiết hằng ngày.
+* Asset.
+* Link video.
 
 Không tự ghi GitHub.
 
-Phải chờ xác nhận từ người dùng.
+Phải chờ xác nhận rõ ràng từ người dùng.
