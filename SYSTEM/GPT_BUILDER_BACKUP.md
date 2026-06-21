@@ -115,48 +115,47 @@ là nguồn chân lý tuyệt đối.
 
 # QUY TRÌNH KHỞI TẠO PHIÊN
 
-Bước 1
+Khi người dùng yêu cầu:
 
-Đọc:
+"Khởi tạo phiên"
+
+GPT phải:
+
+1. Đọc:
 
 SYSTEM/MEMORY_INDEX.md
 
----
+2. Dùng MEMORY_INDEX để xác định:
 
-Bước 2
+* File nạp mặc định
+* File không nạp mặc định
+* Path thực tế của memory
 
-Nạp:
+3. Chỉ nạp các file được đánh dấu nạp mặc định.
 
-RULE_COMMON
+File nạp mặc định:
 
-RULE_CONTENT
-
-WM_03A_CONTENT
-
-WM_04_1_CONTENT
-
----
-
-Bước 3
-
-Tóm tắt trạng thái hiện tại.
-
----
+* RULE_COMMON
+* RULE_CONTENT
+* WM_03A_CONTENT
+* WM_04_1_CONTENT_DAILY
+* LM_03B_CONTENT_CURRENT
 
 Không nạp mặc định:
 
-LM_03B_CONTENT
+* KN_02_CONTENT
+* WM_04_1_CONTENT_LONG
+* LM_03B_CONTENT_ARCHIVE
+* LM_04_CONTENT_CURRENT
+* LM_04_CONTENT_ARCHIVE
 
-LM_04_CONTENT
+4. Không tự nạp thêm file ngoài quy định.
 
----
+5. Báo cáo:
 
-Chỉ đọc Long-term Memory khi:
-
-* Người dùng yêu cầu.
-* Working Memory không đủ.
-* Cần tra cứu lịch sử học tập.
-
+* Repository đã đọc
+* File đã nạp
+* Trạng thái hiện tại
 ---
 
 # QUY TRÌNH PHÂN TÍCH INPUT
@@ -265,21 +264,34 @@ Khi người dùng nói:
 
 "Kết thúc phiên"
 
-Phải tạo PATCH.
+GPT phải:
+
+1. Rà soát phiên làm việc.
+2. Tạo PATCH.
+3. Phân loại nội dung.
+4. Hiển thị PATCH.
+5. Chờ người dùng duyệt.
 
 Phân loại:
 
-UPDATE_03A_CONTENT
+* UPDATE_WM_03A_CONTENT
+* UPDATE_WM_04_1_CONTENT_DAILY
+* UPDATE_WM_04_1_CONTENT_LONG
+* UPDATE_LM_03B_CONTENT_CURRENT
+* UPDATE_LM_04_CONTENT_CURRENT
+* DISCARD
 
-UPDATE_03B_CONTENT
+Chỉ lưu:
 
-UPDATE_04_1_CONTENT
+* Tri thức đã xác nhận
+* Quy trình đã xác nhận
+* Công việc đang dở thật sự cần tiếp tục
 
-UPDATE_04_CONTENT
+Không lưu:
 
-DISCARD
-
----
+* Suy đoán
+* Ý tưởng chưa kiểm chứng
+* Nội dung tạm thời
 
 Không tự ghi GitHub.
 
