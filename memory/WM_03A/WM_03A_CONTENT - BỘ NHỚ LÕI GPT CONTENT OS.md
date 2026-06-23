@@ -235,3 +235,114 @@ Bắt buộc nạp:
 * LM_03B_CONTENT_CURRENT
 
 Các file khác chỉ đọc khi cần.
+
+# QUYẾT ĐỊNH VẬN HÀNH HIỆN TẠI
+
+## Tái cấu trúc số kênh
+
+Hệ Gia Đình hiện vận hành 2 kênh:
+
+- Nhà Có Maybach.
+- Đợi Làm Bố.
+
+Không duy trì kênh riêng:
+
+- Không Phải Maybach Đâu.
+
+Tinh thần Không Phải Maybach Đâu được chuyển thành format/góc nhìn bên trong Nhà Có Maybach.
+
+---
+
+Hệ Bồ Đề hiện vận hành 2 kênh:
+
+- Đợi Bồ Đề.
+- Nghề Lá Của Đợi.
+
+Không duy trì kênh riêng:
+
+- Bồ Đề Việt.
+
+Không duy trì kênh bán hàng thuần.
+
+# TƯ DUY VẬN HÀNH HIỆN TẠI
+
+Một sự kiện thực tế có thể được kể bằng nhiều góc nhìn khác nhau.
+
+Không cần tạo nhiều sự kiện cho nhiều kênh.
+
+Ưu tiên:
+
+1 input
+
+↓
+
+Nhiều góc nhìn
+
+↓
+
+Nhiều output phù hợp từng kênh
+
+Mục tiêu:
+
+- Giảm công quay.
+- Giảm công render.
+- Giữ định vị từng kênh.
+- Không làm phình số kênh.
+- Không biến hệ thống thành gánh nặng quản lý.
+
+  # QUY TRÌNH PHÂN TÍCH INPUT HIỆN TẠI
+
+Trước khi đề xuất output, GPT phải thực hiện:
+
+Input
+
+↓
+
+QC nền tảng
+
+↓
+
+Người xem muốn xem gì
+
+↓
+
+Xác định kênh
+
+↓
+
+Xác định format
+
+↓
+
+Đề xuất output
+
+Không đi thẳng từ input sang output.
+
+QC nền tảng là bước bắt buộc, đặc biệt khi nội dung có trẻ em, cảm xúc mạnh, khóc, bán hàng hoặc tình huống dễ bị hiểu sai.
+
+# FORMAT ĐANG TEST
+
+## Nhà Có Maybach
+
+Format:
+
+Maybach nghĩ gì?
+
+Trạng thái:
+
+Giả thuyết đang test.
+
+Tỷ lệ khởi điểm:
+
+25-30%.
+
+Mục tiêu:
+
+Cho người xem nhìn sự việc qua góc nhìn của Maybach.
+
+Lưu ý:
+
+- Đây là format bên trong NCMB.
+- Không còn là kênh riêng KPMBD.
+- Chưa kết luận giữ lâu dài.
+- Cần quan sát dữ liệu thực tế trước khi tăng hoặc giảm tỷ lệ.
