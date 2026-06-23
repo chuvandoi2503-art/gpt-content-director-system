@@ -190,132 +190,153 @@ Lọc lá ngày 1 khác lọc lá ngày 100 vì:
 
 ---
 
-# 7. HỆ SINH THÁI NỘI DUNG BAN ĐẦU
+# KIẾN TRÚC HỆ KÊNH NỘI DUNG
 
-## 7.1 Hệ Bồ Đề Việt
+GPT Content OS vận hành theo nguyên tắc:
 
-Mục tiêu chung:
+Kênh
 
-Bán sản phẩm tranh xương lá bồ đề thủ công và xây thương hiệu nghề.
+↓
 
-Kênh dự kiến:
+Format
 
-* Bồ Đề Việt.
-* Đợi Bồ Đề.
-* Nghề Lá Của Đợi.
+↓
 
-## 7.2 Hệ Gia Đình
+Video
 
-Mục tiêu chung:
+Không vận hành theo:
 
-Xây nội dung gia đình, hành trình con lớn lên, góc nhìn người bố, trải nghiệm nuôi con.
+Kênh
 
-Kênh dự kiến:
+↓
 
-Nhà Có Maybach.
-Không Phải Maybach Đâu.
-Đợi Làm Bố.
+Video
 
-# 7.3 KIẾN TRÚC VOICE HỆ GIA ĐÌNH
+Mỗi kênh cần dần hình thành các format chính để ổn định dài hạn.
 
-Mục tiêu:
+Format không phải chân lý cố định.
 
-Chuẩn hóa voice, người kể chuyện và định vị từng kênh trong hệ Gia Đình.
+Mỗi format ban đầu chỉ là giả thuyết nội dung.
 
-GPT khi phân tích tư liệu hoặc đề xuất nội dung phải ưu tiên sử dụng kiến trúc này thay vì suy luận lại từ đầu.
+Format phải được:
+
+Làm
+
+↓
+
+Quan sát
+
+↓
+
+Đánh giá
+
+↓
+
+Giữ
+
+hoặc
+
+Thay thế
+
+Chỉ sau khi có dữ liệu thực tế mới kết luận format nào nên tăng tỷ lệ, giữ nguyên, giảm tỷ lệ hoặc loại bỏ.
+
+GPT khi phân tích input phải xác định:
+
+- Video này thuộc format nào?
+- Format này đã kiểm chứng chưa?
+- Format này đang test hay đã thành trụ cột?
+- Tỷ lệ xuất hiện hiện tại của format này trong kênh là bao nhiêu?
+
+# 7. KIẾN TRÚC HỆ SINH THÁI NỘI DUNG HIỆN TẠI
+
+## Hệ Gia Đình
+
+Giữ:
+
+- Nhà Có Maybach
+- Đợi Làm Bố
+
+Không duy trì kênh riêng:
+
+- Không Phải Maybach Đâu
+
+Không Phải Maybach Đâu không bị xóa về mặt tư duy nội dung.
+
+Tinh thần của Không Phải Maybach Đâu được chuyển thành một format/góc nhìn bên trong Nhà Có Maybach.
 
 ---
+
+## Hệ Bồ Đề
+
+Giữ:
+
+- Đợi Bồ Đề
+- Nghề Lá Của Đợi
+
+Không duy trì kênh riêng:
+
+- Bồ Đề Việt
+
+Không duy trì kênh bán hàng thuần.
+
+Hệ Bồ Đề chuyển sang hướng:
+
+- Kể chuyện.
+- Thương hiệu cá nhân.
+- Bán hàng gián tiếp.
+- Bán hàng từ niềm tin và câu chuyện.
+
+# ĐỊNH VỊ 4 KÊNH HIỆN TẠI
 
 ## Nhà Có Maybach
 
-Voice chính:
+Vai trò:
 
-Gia đình
-
-Người kể:
-
-Bố mẹ
-
-Nhân vật trung tâm:
-
-Maybach
-
-Mục tiêu:
-
-Theo dõi hành trình lớn lên của Maybach dưới góc nhìn gia đình.
-
-Người xem theo dõi:
-
-* Maybach hôm nay thế nào.
-* Maybach học được gì.
-* Maybach thay đổi ra sao.
-* Các cột mốc trưởng thành của Maybach.
-
-Đặc điểm voice:
-
-* Quan sát.
-* Gần gũi.
-* Đời thường.
-* Ấm áp.
-* Gia đình là trung tâm.
-
-Khi không chắc chọn voice nào:
-
-Ưu tiên voice Gia đình.
-
----
-
-## Không Phải Maybach Đâu
+Kênh chính của hệ Gia Đình.
 
 Voice chính:
 
-Maybach
+Gia đình.
 
 Người kể:
 
-Maybach
+Bố mẹ.
 
 Nhân vật trung tâm:
 
-Maybach
+Maybach và đời sống gia đình.
 
 Mục tiêu:
 
-Xây IP xoay quanh cách nhìn thế giới của trẻ.
+Theo dõi hành trình Maybach lớn lên dưới góc nhìn gia đình.
 
-Người xem theo dõi:
+Người xem đến vì:
 
-* Nếu Maybach biết nói thì sẽ nói gì.
-* Trẻ em nhìn thế giới thế nào.
-* Các tình huống đời thường dưới góc nhìn của trẻ.
-
-Đặc điểm voice:
-
-* Hồn nhiên.
-* Ngây ngô.
-* Hài hước.
-* Tò mò.
-* Quan sát theo góc nhìn trẻ em.
-
-Khi không chắc chọn voice nào:
-
-Ưu tiên voice Maybach.
+- Maybach hôm nay thế nào.
+- Maybach học được gì.
+- Maybach thay đổi ra sao.
+- Gia đình xử lý các tình huống đời thường thế nào.
+- Những cột mốc trưởng thành của Maybach.
 
 ---
 
 ## Đợi Làm Bố
 
+Vai trò:
+
+Kênh thương hiệu cá nhân của Đợi trong vai trò người bố.
+
 Voice chính:
 
-Đợi
+Đợi.
 
 Người kể:
 
-Đợi
+Đợi.
 
 Nhân vật trung tâm:
 
-Đợi
+Đợi.
 
 Mục tiêu:
 
@@ -325,24 +346,95 @@ Không phải chuyên gia dạy con.
 
 Không phải kênh tư vấn nuôi dạy trẻ.
 
-Người xem theo dõi:
+Người xem đến vì:
 
-* Một người bố đang học hỏi mỗi ngày.
-* Những sai lầm.
-* Những trải nghiệm.
-* Những thay đổi trong suy nghĩ khi có con.
+- Một người bố đang học hỏi mỗi ngày.
+- Những sai lầm.
+- Những trải nghiệm thật.
+- Những thay đổi trong suy nghĩ khi có con.
+- Cách Đợi xử lý các tình huống khi làm bố.
 
-Đặc điểm voice:
+---
 
-* Chân thật.
-* Chiêm nghiệm.
-* Trưởng thành dần theo thời gian.
-* Chia sẻ trải nghiệm thay vì dạy bảo.
+## Đợi Bồ Đề
 
-Khi không chắc chọn voice nào:
+Vai trò:
 
-Ưu tiên voice Đợi.
+Kênh kể chuyện về nghề bồ đề.
 
+Voice chính:
+
+Đợi.
+
+Người kể:
+
+Đợi.
+
+Nhân vật trung tâm:
+
+Nghề, sản phẩm, khách hàng, câu chuyện phía sau sản phẩm.
+
+Tỷ lệ định hướng:
+
+70% kể chuyện.
+
+30% bán hàng.
+
+Mục tiêu:
+
+Kể chuyện về nghề, khách hàng, sản phẩm và hành trình làm nghề.
+
+Người xem đến vì:
+
+- Câu chuyện nghề.
+- Câu chuyện sản phẩm.
+- Câu chuyện khách hàng.
+- Quá trình tạo ra sản phẩm.
+- Cuộc sống quanh nghề.
+
+Không phải catalogue sản phẩm.
+
+Không phải kênh bán hàng thuần.
+
+---
+
+## Nghề Lá Của Đợi
+
+Vai trò:
+
+Kênh thương hiệu cá nhân của Đợi trong hệ Bồ Đề.
+
+Voice chính:
+
+Đợi.
+
+Người kể:
+
+Đợi.
+
+Nhân vật trung tâm:
+
+Đợi.
+
+Tỷ lệ định hướng:
+
+90% cá nhân.
+
+10% bán hàng.
+
+Mục tiêu:
+
+Xây dựng thương hiệu cá nhân của Đợi thông qua nghề, cuộc sống và trải nghiệm thật.
+
+Người xem đến vì:
+
+- Đợi là ai.
+- Đợi sống thế nào.
+- Đợi làm nghề ra sao.
+- Đợi nghĩ gì về nghề.
+- Đợi thay đổi thế nào trong quá trình làm nghề.
+
+Sản phẩm chỉ là một phần của cuộc sống và câu chuyện.
 ---
 
 # QUY TẮC ÁP DỤNG
@@ -352,11 +444,8 @@ Khi GPT phân tích cùng một tư liệu:
 Nhà Có Maybach
 → Voice Gia đình
 
-Không Phải Maybach Đâu
-→ Voice Maybach
-
 Đợi Làm Bố
-→ Voice Adam
+→ Voice Đợi
 
 GPT không cần suy luận lại voice của từng kênh nếu tư liệu thuộc hệ Gia Đình.
 
@@ -387,6 +476,155 @@ Nguyên tắc phân loại cảnh:
 * AI hỗ trợ.
 * AI thay thế được.
 * Không cần làm.
+
+# QUY TRÌNH PHÂN TÍCH INPUT BẮT BUỘC
+
+Khi người dùng đưa input, GPT không được đi thẳng từ input sang output.
+
+Quy trình bắt buộc:
+
+Input
+
+↓
+
+QC nền tảng
+
+↓
+
+Người xem muốn xem gì
+
+↓
+
+Xác định hệ/kênh phù hợp
+
+↓
+
+Xác định format
+
+↓
+
+Đề xuất output
+
+---
+
+## QC nền tảng
+
+Trước khi đề xuất nội dung, GPT phải đánh giá rủi ro nền tảng.
+
+Các nền tảng cần lưu ý:
+
+- TikTok.
+- Facebook Reels.
+- YouTube Shorts.
+
+Các yếu tố cần QC:
+
+- Nội dung có trẻ em.
+- Trẻ em khóc.
+- Trẻ em xuất hiện một mình.
+- Cảnh dễ bị hiểu là ép buộc, căng thẳng hoặc không an toàn.
+- Từ ngữ có thể khiến nền tảng soi kỹ.
+- Hook quá tiêu cực.
+- Mở đầu gây cảm giác căng thẳng.
+- Video chỉ có trẻ em mà thiếu bối cảnh người lớn.
+- Nội dung bán hàng quá trực diện.
+
+QC nền tảng không nhằm làm mất sự thật.
+
+QC nền tảng nhằm chuyển cách kể sang framing an toàn hơn, dễ phân phối hơn và phù hợp hơn với hành vi người xem.
+
+Ví dụ:
+
+Không framing:
+
+Maybach bị ép ngồi ghế.
+
+Nên framing:
+
+Hành trình Maybach làm quen ghế trẻ em.
+
+# NGUYÊN TẮC NGƯỜI XEM MUỐN XEM GÌ
+
+Khi phân tích input, GPT phải ưu tiên câu hỏi:
+
+Người xem muốn xem gì?
+
+Không ưu tiên câu hỏi:
+
+Người xem muốn mua gì?
+
+Người xem thường muốn xem:
+
+- Trải nghiệm thật.
+- Cách xử lý.
+- Hành trình.
+- Sự thay đổi.
+- Kết quả.
+- Câu chuyện phía sau.
+- Cảm xúc.
+- Bài học.
+- Sự đồng cảm.
+- Tranh luận có ý nghĩa.
+
+Bán hàng chỉ được đưa vào khi phù hợp với câu chuyện và định vị kênh.
+
+Với hệ Bồ Đề, sản phẩm không biến mất.
+
+Nhưng sản phẩm không còn là nhân vật chính mặc định.
+
+Người, nghề, câu chuyện và niềm tin mới là xương sống nội dung.
+
+# FORMAT THỬ NGHIỆM: MAYBACH NGHĨ GÌ?
+
+Kênh áp dụng:
+
+Nhà Có Maybach.
+
+Nguồn gốc:
+
+Kế thừa tinh thần của Không Phải Maybach Đâu sau khi không duy trì kênh riêng.
+
+Mục tiêu:
+
+Cho người xem nhìn sự việc qua góc nhìn của Maybach.
+
+Trạng thái:
+
+Giả thuyết đang test.
+
+Chưa phải tri thức đã kiểm chứng.
+
+Tỷ lệ khởi điểm:
+
+25-30%.
+
+Có thể hiểu theo hai cách tùy giai đoạn vận hành:
+
+- 25-30% video trên toàn kênh.
+- Hoặc 25-30% nội dung trong một video.
+
+Cách triển khai:
+
+- Giữ tiếng thật của Maybach.
+- Giữ tương tác thật giữa Maybach và bố mẹ.
+- AI chỉ đóng vai trò diễn giải suy nghĩ.
+- AI không thay thế hoàn toàn nhân vật thật.
+- Không biến Maybach thành nhân vật AI.
+- Không dùng AI để làm mất cảm giác đời thật của kênh.
+
+Voice Maybach không đồng nghĩa với giọng trẻ em AI.
+
+Voice Maybach là góc nhìn của Maybach.
+
+Ưu tiên:
+
+- Tiếng thật.
+- Tình huống thật.
+- Câu hỏi thật của bố mẹ.
+- Phản ứng thật của Maybach.
+- AI diễn giải ngắn, đúng lúc, không nói quá nhiều.
+
+Khi Maybach nói thật được nhiều hơn, giảm dần tỷ lệ AI diễn giải.
 
 ---
 
