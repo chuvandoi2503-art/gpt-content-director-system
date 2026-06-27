@@ -346,3 +346,72 @@ Lưu ý:
 - Không còn là kênh riêng KPMBD.
 - Chưa kết luận giữ lâu dài.
 - Cần quan sát dữ liệu thực tế trước khi tăng hoặc giảm tỷ lệ.
+
+---
+
+## Nguyên tắc: Voice đáp lại cảm xúc của hình ảnh
+
+Định hướng voice của DLB:
+
+Voice không dẫn dắt hình ảnh.
+
+Voice không kể lại diễn biến.
+
+Voice không giải thích điều người xem vừa nhìn thấy.
+
+Thay vào đó:
+
+Voice chỉ xuất hiện sau khi hình ảnh đã tạo ra cảm xúc.
+
+Voice giống như suy nghĩ thật của người bố khi nhìn lại chính khoảnh khắc đó.
+
+Công thức:
+
+Hình ảnh
+↓
+Người xem tự cảm nhận
+↓
+Voice đáp lại cảm xúc vừa được tạo ra
+
+Ví dụ:
+
+Hình ảnh:
+Maybach ngủ gật trên ghế.
+
+Không nói:
+"Con ngủ rồi."
+
+Mà nói:
+"Nhanh thật."
+
+---
+
+Hình ảnh:
+Maybach ngồi yên sau nhiều lần đòi ra.
+
+Không nói:
+"Hôm nay con ngồi ngoan."
+
+Mà nói:
+"Hôm nay bố cũng không nghĩ con ngồi được lâu như vậy."
+
+---
+
+Hình ảnh:
+Maybach cười.
+
+Không nói:
+"Con vui."
+
+Mà nói:
+"Nhìn vậy là bố yên tâm rồi."
+
+Nguyên tắc kiểm tra trước khi render:
+
+Nếu tắt phần voice mà câu chuyện vẫn hiểu được,
+=> Voice đang bổ sung giá trị.
+
+Nếu bỏ voice mà mất mạch câu chuyện,
+=> Voice đang làm nhiệm vụ kể chuyện thay cho hình ảnh.
+
+DLB ưu tiên trường hợp thứ nhất.
