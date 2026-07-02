@@ -238,57 +238,135 @@ Các file khác chỉ đọc khi cần.
 
 # QUYẾT ĐỊNH VẬN HÀNH HIỆN TẠI
 
-## Tái cấu trúc số kênh
+ ## HỆ GIA ĐÌNH
 
-Hệ Gia Đình hiện vận hành 2 kênh:
+### Hệ tư tưởng
 
-- Nhà Có Maybach.
-- Đợi Làm Bố.
-
-Không duy trì kênh riêng:
-
-- Không Phải Maybach Đâu.
-
-Tinh thần Không Phải Maybach Đâu được chuyển thành format/góc nhìn bên trong Nhà Có Maybach.
+Thời gian là thước đo của sự trưởng thành.
 
 ---
 
-Hệ Bồ Đề hiện vận hành 2 kênh:
+### Đường dài
 
-- Đợi Bồ Đề.
-- Nghề Lá Của Đợi.
+Hai bố con cùng lớn lên bằng những trải nghiệm thật.
 
-Không duy trì kênh riêng:
+Song ngữ là con đường chính ở giai đoạn hiện tại.
 
-- Bồ Đề Việt.
+---
 
-Không duy trì kênh bán hàng thuần.
+### Huyết mạch
 
-# TƯ DUY VẬN HÀNH HIỆN TẠI
+Hai bố con từ con số 0 cùng tiến tới khả năng sử dụng song ngữ.
 
-Một sự kiện thực tế có thể được kể bằng nhiều góc nhìn khác nhau.
+---
 
-Không cần tạo nhiều sự kiện cho nhiều kênh.
+### Vai trò kênh
 
-Ưu tiên:
+#### Đợi Làm Bố
 
-1 input
+Kênh chính.
+
+Ghi lại hành trình thật.
+
+---
+
+#### Nhà có Maybach
+Kênh lưu giữ tuổi thơ.
+
+Giá trị đầu tiên dành cho gia đình.
+
+---
+
+### Engine
+
+Một khoảng thời gian cố định trong cuộc sống hằng ngày mà hai bố con sử dụng tiếng Anh.
+
+"Tắm tiếng Anh" là ritual đầu tiên dự kiến triển khai sau khi hoàn thành Research.
+
+---
+
+### Trạng thái
+
+WAITING FOR RESEARCH
+---
+
+## HỆ BỒ ĐỀ
+
+### Hệ tư tưởng
+
+Giữ lại những giá trị đáng được giữ theo thời gian.
+
+Thời gian là giá trị cần được bảo vệ.
+
+---
+
+### Đường dài
+
+Xây dựng Bồ Đề Việt trở thành thương hiệu tạo ra những tác phẩm đáng được giữ trong một ngôi nhà nhiều năm.
+
+---
+
+### Huyết mạch
+
+Mỗi bức tranh đều mang một giá trị mà người sở hữu muốn nhìn lại mỗi ngày.
+
+---
+
+### Vai trò kênh
+
+#### Bồ Đề Việt
+
+Vai trò:
+
+Kênh thương hiệu.
+
+Đưa ra lời hứa.
+
+Giúp khách hàng hiểu giá trị cuộc sống mà bức tranh mang lại.
+
+---
+
+#### Đợi Bồ Đề
+
+Vai trò:
+
+Kênh chứng minh.
+
+Mỗi video đều là bằng chứng cho lời hứa của Bồ Đề Việt.
+
+Không tự tâng bốc.
+
+Không tự nhận tốt.
+
+Chỉ dùng quy trình thực tế để chứng minh.
+
+---
+
+### Engine
+
+#### Bồ Đề Việt
+
+Một bức tranh
 
 ↓
 
-Nhiều góc nhìn
+Một giá trị sống.
+
+---
+
+#### Đợi Bồ Đề
+
+Một lời hứa
 
 ↓
 
-Nhiều output phù hợp từng kênh
+Một bằng chứng.
 
-Mục tiêu:
+---
 
-- Giảm công quay.
-- Giảm công render.
-- Giữ định vị từng kênh.
-- Không làm phình số kênh.
-- Không biến hệ thống thành gánh nặng quản lý.
+### Trạng thái
+
+READY TO BUILD
 
   # QUY TRÌNH PHÂN TÍCH INPUT HIỆN TẠI
 
