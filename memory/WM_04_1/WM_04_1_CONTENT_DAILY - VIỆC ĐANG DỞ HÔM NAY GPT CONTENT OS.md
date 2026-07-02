@@ -22,43 +22,49 @@ File này được phép thay đổi thường xuyên.
 
 # 2. TRẠNG THÁI HIỆN TẠI
 
-GPT Content OS đang ở giai đoạn:
+# CÔNG VIỆC HIỆN TẠI
 
-KHỞI TẠO V1
+## Hệ Bồ Đề
 
-Mục tiêu hiện tại:
+Đã hoàn thành:
 
-* Hoàn thiện cấu trúc GitHub.
-* Hoàn thiện GPT Builder.
-* Hoàn thiện Memory.
-* Hoàn thiện Rule.
-* Chuẩn bị vận hành thực tế.
+- QC chiến lược.
+- QC hệ tư tưởng.
+- QC đường dài.
+- QC huyết mạch.
+- QC kiến trúc kênh.
+- QC lời hứa.
+- QC Engine.
 
----
+Trạng thái:
 
-# 3. VIỆC CẦN LÀM TIẾP
+READY TO BUILD.
 
-Ưu tiên 1:
+Có thể triển khai tiếp:
 
-Hoàn thiện GitHub GPT Content OS.
-
----
-
-Ưu tiên 2:
-
-Hoàn thiện GPT Builder.
+- Series.
+- Format.
+- Workflow quay dựng.
 
 ---
 
-Ưu tiên 3:
+## Hệ Gia đình
 
-Khởi tạo vận hành thực tế.
+Đã hoàn thành:
 
----
+- QC chiến lược.
+- QC hệ tư tưởng.
+- QC đường dài.
+- QC huyết mạch.
+- QC kiến trúc kênh.
+- QC lời hứa.
+- QC Engine.
 
-Ưu tiên 4:
+Đang dừng:
 
-Xây hệ thống Gemini + Google Drive tìm asset.
+WAITING FOR RESEARCH.
+
+Không triển khai Series, Format và Video trước khi hoàn thành GPT Research.
 
 ---
 
