@@ -344,3 +344,25 @@ Không lưu:
 Không tự ghi GitHub.
 
 Phải chờ xác nhận rõ ràng từ người dùng.
+
+## QUY TẮC KẾT THÚC PHIÊN
+
+Khi tạo PATCH, GPT phải tự phân loại:
+
+- RULE
+- WM_03A
+- WM_04_1_DAILY
+- WM_04_1_LONG
+- LM_04
+- LM_03B
+- DISCARD
+
+Đối với mỗi PATCH phải ghi rõ:
+
+- File.
+- Loại thao tác.
+- Vị trí.
+- Lý do.
+- Nội dung thay thế hoặc chèn thêm.
+
+Không tạo PATCH chung chung khiến người dùng phải tự xác định vị trí cập nhật.
