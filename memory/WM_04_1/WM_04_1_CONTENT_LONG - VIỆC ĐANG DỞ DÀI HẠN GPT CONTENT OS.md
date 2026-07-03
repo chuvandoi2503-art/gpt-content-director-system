@@ -23,7 +23,19 @@ Chỉ đọc khi cần.
 
 # 2. HỆ KÊNH ĐANG XÂY
 
- # 2.1 HỆ BỒ ĐỀ
+ # HỆ BỒ ĐỀ
+
+## Trạng thái
+
+ĐANG HOÀN THIỆN KIẾN TRÚC.
+
+Chưa chuyển sang thiết kế format cuối cùng.
+
+Trọng tâm hiện tại:
+
+Hoàn thiện Khối 1 - Hiểu con người.
+
+---
 
 ## Hệ tư tưởng
 
@@ -33,72 +45,153 @@ Thời gian là giá trị cần được bảo vệ.
 
 ---
 
+## Vị trí đứng
+
+Gợi nhớ.
+
+Bồ Đề Việt không dạy con người phải sống thế nào.
+
+Bồ Đề Việt chỉ nhắc họ nhớ về điều họ đã lựa chọn để sống.
+
+---
+
 ## Đường dài
 
-Xây dựng Bồ Đề Việt trở thành thương hiệu tạo ra những tác phẩm đáng được giữ trong một ngôi nhà nhiều năm.
+Xây dựng Bồ Đề Việt trở thành thương hiệu tạo ra những tác phẩm giúp con người nhớ lại những giá trị họ muốn giữ trong đời sống nhiều năm.
 
 ---
 
 ## Huyết mạch
 
-Mỗi bức tranh đều mang một giá trị mà người sở hữu muốn nhìn lại mỗi ngày.
+Mỗi tác phẩm là một lời gợi nhớ.
+
+Không phải lời gợi nhớ do thương hiệu áp đặt.
+
+Mà là lời gợi nhớ về điều người sở hữu đã có sẵn trong lòng.
 
 ---
 
 ## Vai trò kênh
 
-1. Bồ Đề Việt
+### Bồ Đề Việt
 
 Vai trò:
 
 Kênh thương hiệu.
 
-Đưa ra lời hứa.
+Gợi nhớ giá trị sống.
 
-Giúp khách hàng hiểu giá trị cuộc sống mà bức tranh mang lại.
+Không bán tranh thuần.
+
+Không bán vật liệu.
+
+Không bán kỹ thuật.
+
+Không bán Đức Phật.
+
+Không bán decor.
+
+Bồ Đề Việt giúp người xem chạm lại những điều họ từng lựa chọn để sống.
 
 ---
 
-2. Đợi Bồ Đề
+### Đợi Bồ Đề
 
 Vai trò:
 
 Kênh chứng minh.
 
-Mỗi video đều là bằng chứng cho lời hứa của Bồ Đề Việt.
+Không bán cảm xúc.
+
+Không kể chuyện bịa.
 
 Không tự tâng bốc.
 
 Không tự nhận tốt.
 
-Chỉ dùng quy trình thực tế để chứng minh.
+Chỉ dùng:
+
+- Quy trình thật.
+- Sản phẩm thật.
+- Con người thật.
+- Tiêu chuẩn thật.
+- Sự tỉ mỉ thật.
+
+Để chứng minh lời hứa của Bồ Đề Việt.
 
 ---
 
-## Engine
+## Engine dài hạn
 
-1. Bồ Đề Việt
+### Bồ Đề Việt
 
-Một bức tranh
+Dữ liệu đời sống thật
 
 ↓
 
-Một giá trị sống.
-
----
-
-2. Đợi Bồ Đề
-
-Một lời hứa
+Điều con người muốn nhớ lại
 
 ↓
 
-Một bằng chứng.
+Lời gợi nhớ
+
+↓
+
+Tác phẩm
 
 ---
 
- Trạng thái
-READY TO BUILD
+### Đợi Bồ Đề
+
+Lời hứa
+
+↓
+
+Bằng chứng thật
+
+↓
+
+Niềm tin
+
+---
+
+## Nguyên tắc phát triển nội dung
+
+Không đi thẳng từ sản phẩm sang video.
+
+Phải đi theo hướng:
+
+Dữ liệu đời sống
+
+↓
+
+Khám phá điều con người đang sống
+
+↓
+
+Tìm điều họ muốn gửi gắm hoặc bảo vệ
+
+↓
+
+Gợi nhớ
+
+↓
+
+Tác phẩm
+
+---
+
+## Trạng thái tiếp theo
+
+Cần tiếp tục khám phá dữ liệu đời sống trước khi khóa:
+
+- Hệ giá trị.
+- Lăng kính tư duy.
+- Format.
+- Series.
+- Workflow sản xuất.
+
+Không triển khai Series và Format khi Khối 1 chưa đủ dữ liệu.
 
 ---
 
@@ -185,6 +278,8 @@ Triển khai Series.
 Triển khai Format.
 
 Triển khai sản xuất.
+
+----
 
 # 3. BACKLOG HỆ THỐNG
 
