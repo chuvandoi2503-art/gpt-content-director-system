@@ -26,45 +26,117 @@ File này được phép thay đổi thường xuyên.
 
 ## Hệ Bồ Đề
 
-Đã hoàn thành:
+Trạng thái hiện tại:
 
-- QC chiến lược.
-- QC hệ tư tưởng.
-- QC đường dài.
-- QC huyết mạch.
-- QC kiến trúc kênh.
-- QC lời hứa.
-- QC Engine.
+ĐANG HOÀN THIỆN KHỐI 1 - HIỂU CON NGƯỜI.
 
-Trạng thái:
+Mục tiêu hiện tại:
 
-READY TO BUILD.
+Khám phá cách con người đưa ra quyết định trong đời sống thật.
 
-Có thể triển khai tiếp:
-
-- Series.
-- Format.
-- Workflow quay dựng.
+Không chuyển sang thiết kế format hoặc video trước khi hoàn thành bước khám phá đủ dữ liệu.
 
 ---
 
-## Hệ Gia đình
+## Việc đã chốt trong phiên
 
-Đã hoàn thành:
+Đã chốt 3 câu hỏi cốt lõi của Content OS:
 
-- QC chiến lược.
-- QC hệ tư tưởng.
-- QC đường dài.
-- QC huyết mạch.
-- QC kiến trúc kênh.
-- QC lời hứa.
-- QC Engine.
+1. Con người thật sự đang sống như thế nào?
+2. Hệ thống của mình sẽ đứng ở đâu trong cuộc sống đó?
+3. Hôm nay sẽ kể lại điều đó bằng cách nào?
 
-Đang dừng:
+Đã chốt:
 
-WAITING FOR RESEARCH.
+- Content OS là GPT kiến trúc nội dung.
+- Không phải GPT viết content đơn thuần.
+- Không phải GPT render.
+- Không phải GPT publish.
+- Không phải GPT toàn năng.
+- Dữ liệu đời sống là điểm bắt đầu.
+- Khám phá trước, kiến trúc hóa sau.
+- Khi hệ thống phình, quay lại 3 câu hỏi cốt lõi.
 
-Không triển khai Series, Format và Video trước khi hoàn thành GPT Research.
+---
+
+## Hệ Bồ Đề đã chốt
+
+Bồ Đề Việt:
+
+- Kênh thương hiệu.
+- Vai trò là gợi nhớ.
+- Không dạy đời.
+- Không chữa lành.
+- Không áp đặt.
+- Không bán tranh thuần.
+
+Đợi Bồ Đề:
+
+- Kênh chứng minh.
+- Dùng sản phẩm thật, quy trình thật, con người thật để tạo niềm tin.
+
+---
+
+## Việc đang khám phá
+
+Đang khám phá các quyết định thật để tìm cấu trúc ra quyết định của con người.
+
+Các quyết định đã đào trong phiên:
+
+1. Mua máy quay góc nhìn cá nhân.
+2. Xây Archi.
+3. Mở xưởng sản xuất gỗ.
+4. Giữ con học trường cũ dù xa nhà.
+
+Trạng thái:
+
+Chưa kết luận thành quy luật.
+
+Chỉ xem là dữ liệu khám phá.
+
+---
+
+## Giả thuyết mạnh nhưng chưa khóa
+
+Chưa lưu vào LM_03B.
+
+Chỉ giữ ở Daily để tiếp tục khám phá:
+
+- Một quyết định lớn thường không xoay quanh sản phẩm.
+- Quyết định có thể liên quan đến phiên bản con người mà người ra quyết định muốn trở thành.
+- Có những quyết định xuất hiện khi mong muốn lớn hơn nỗi sợ.
+- Một số quyết định là sự đánh đổi hiện tại để bảo vệ hoặc đạt tới điều quan trọng hơn.
+- Nội dung có chiều sâu không phải vì người làm nhét nhiều ý, mà vì một câu chuyện thật có nhiều lớp ý nghĩa để người xem tự tìm thấy mình.
+- Content không tạo ra thời điểm cuộc đời.
+- Content có thể rút ngắn khoảng cách từ khi nhu cầu đã hình thành đến khi hành động xảy ra.
+
+Tất cả vẫn là giả thuyết.
+
+Cần tiếp tục khám phá thêm dữ liệu.
+
+---
+
+## Việc tiếp theo
+
+Tiếp tục Khối 1 - Hiểu con người.
+
+Không thiết kế video ngay.
+
+Không khóa format ngay.
+
+Không kết luận về động cơ ngay.
+
+Việc cần làm tiếp:
+
+1. Đào thêm các quyết định thật từ người dùng.
+2. Chuyển sang các quyết định khác loại, không chỉ phát triển bản thân.
+3. Sau khi đủ dữ liệu, mới phân cụm.
+4. Sau khi phân cụm, mới rút quy luật.
+5. Sau khi quy luật đủ chắc, mới chuyển sang Khối 2 - Xây kiến trúc giá trị cho Hệ Bồ Đề.
+
+Câu hỏi trung tâm phiên sau:
+
+Người này đã chấp nhận đánh đổi điều gì, và họ đang cố bảo vệ hoặc đạt tới điều gì?
 
 ---
 
@@ -88,114 +160,6 @@ Các nội dung đó thuộc:
 * LM_03B_CONTENT_CURRENT
 * LM_04_CONTENT_CURRENT
 * WM_04_1_CONTENT_LONG
-
----
-
-# CẬP NHẬT PHIÊN
-
-## 1. Làm rõ định vị kênh Đợi Làm Bố (DLB)
-
-Định vị hiện tại được thống nhất:
-
-DLB không phải:
-
-- Ông bố kể chuyện thuần.
-- Vlog kể lại toàn bộ sự kiện.
-
-DLB hướng tới:
-
-- Một người bố suy ngẫm từ những câu chuyện thật của gia đình.
-- Chia sẻ góc nhìn, trải nghiệm và quá trình trưởng thành của người bố.
-
-Mức độ tin cậy:
-
-CAO.
-
-Đây là định vị đã rõ về mặt chiến lược nhưng vẫn cần dữ liệu nền tảng để tiếp tục kiểm chứng hiệu quả.
-
----
-
-## 2. Hình thành giả thuyết format mới cho DLB
-
-Tên tạm:
-
-Suy Nghĩ Của Bố
-
-Trạng thái:
-
-ĐANG TEST
-
-Cấu trúc dự kiến:
-
-Input thực tế
-↓
-Giữ tiếng thật
-↓
-40–60% cảnh khác với Nhà Có Maybach
-↓
-Text nội tâm của bố
-↓
-Hook riêng của DLB
-↓
-CTA riêng của DLB
-
-Giả thuyết cần kiểm chứng:
-
-- Người xem DLB quan tâm đến suy nghĩ của người bố hơn là việc kể lại toàn bộ câu chuyện.
-- Có thể giữ tiếng thật của Maybach mà không tạo cảm giác xem lại video.
-- Một input có thể tái sử dụng cho hai kênh với trải nghiệm xem khác nhau.
-
----
-
-## 3. Làm rõ khác biệt giữa NCMB và DLB
-
-Nhà Có Maybach:
-
-- Trọng tâm là Maybach và hành trình của gia đình.
-- Người xem theo dõi sự thay đổi của Maybach.
-
-Đợi Làm Bố:
-
-- Trọng tâm là góc nhìn và quá trình trưởng thành của người bố.
-- Cùng một sự kiện nhưng kể dưới góc nhìn khác.
-
----
-
-## 4. Làm rõ hướng triển khai hiện tại của NCMB
-
-Ưu tiên hiện tại:
-
-Mô tả cảm xúc quan sát được.
-
-Ví dụ:
-
-- Vui.
-- Tò mò.
-- Ngại.
-- Tự hào.
-- Lo lắng.
-
-Đây là phần diễn giải từ các biểu hiện quan sát được.
-
-Không đồng nghĩa với việc AI diễn giải suy nghĩ của Maybach.
-
----
-
-## 5. Trạng thái format "Maybach nghĩ gì?"
-
-Format:
-
-Maybach nghĩ gì?
-
-Trạng thái:
-
-ĐANG TEST.
-
-Chưa được xem là tri thức đã xác nhận.
-
-Chưa chuyển sang Long-term Memory.
-
-Tiếp tục thu thập dữ liệu thực tế trước khi đánh giá.
 
 ---
 
