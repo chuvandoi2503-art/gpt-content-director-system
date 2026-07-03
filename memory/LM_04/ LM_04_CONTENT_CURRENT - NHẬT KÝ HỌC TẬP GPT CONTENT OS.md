@@ -366,21 +366,205 @@ Người dùng có thể đọc lại LM_04_CONTENT để hiểu:
 
 - Hoàn thiện Instructions GPT Content OS phiên bản vận hành thực tế.
 
-# PHIÊN LÀM VIỆC
+---
 
-Đã xác định rõ phạm vi của Content OS.
+## Nhật ký phiên 2026-07-04 - Tái định nghĩa Content OS và Hệ Bồ Đề
 
-Content OS không chịu trách nhiệm nghiên cứu chuyên môn.
+### Bối cảnh
 
-Content OS chỉ:
+Phiên làm việc bắt đầu từ việc hoàn thiện Hệ Bồ Đề.
 
-- QC hệ thống.
-- Ghi nhớ vị trí hiện tại của người dùng trên hành trình.
-- Nhận input thực tế.
-- Chuyển thành output.
+Trong quá trình QC, người dùng và GPT nhận ra Content OS không nên tiếp tục vận hành như GPT viết content hoặc GPT toàn năng.
 
-Đã hoàn thiện kiến trúc hệ Bồ Đề.
+Content OS cần được tái định nghĩa thành GPT kiến trúc nội dung.
 
-Đã hoàn thiện chiến lược hệ Gia đình đến tầng Engine.
+---
 
-Hệ Gia đình dừng đúng tại Gate Research trước khi triển khai các tầng thực thi.
+### Quyết định kiến trúc quan trọng
+
+Content OS vận hành quanh 3 câu hỏi cốt lõi:
+
+1. Con người thật sự đang sống như thế nào?
+2. Hệ thống của mình sẽ đứng ở đâu trong cuộc sống đó?
+3. Hôm nay sẽ kể lại điều đó bằng cách nào?
+
+Ba câu hỏi này dùng để chống phình kiến trúc.
+
+Khi xuất hiện tầng mới, GPT phải kiểm tra tầng đó trả lời câu hỏi nào.
+
+Nếu không trả lời rõ, không đưa vào hệ thống.
+
+---
+
+### Nguyên lý được thống nhất
+
+Mọi nội dung phải bắt đầu từ dữ liệu đời sống thật.
+
+Không bắt đầu từ:
+
+- Ý tưởng.
+- Sản phẩm.
+- Thuật toán.
+- Suy đoán.
+- Khả năng sáng tạo của AI.
+
+Quy trình đúng:
+
+Dữ liệu đời sống
+
+↓
+
+Khám phá
+
+↓
+
+Xác nhận quy luật
+
+↓
+
+Kiến trúc hóa
+
+↓
+
+Chuyển hóa thành nội dung
+
+---
+
+### Thay đổi vai trò Content OS
+
+Content OS không phải:
+
+- GPT viết content đơn thuần.
+- GPT render.
+- GPT publish.
+- GPT toàn năng.
+
+Content OS là GPT kiến trúc nội dung.
+
+Vai trò:
+
+- Hiểu con người.
+- Xây kiến trúc giá trị.
+- Chuyển hóa thành cấu trúc nội dung.
+- Tạo output specification.
+
+---
+
+### Tái định nghĩa Hệ Bồ Đề
+
+Bồ Đề Việt:
+
+- Kênh thương hiệu.
+- Vai trò là gợi nhớ.
+- Không dạy đời.
+- Không chữa lành.
+- Không áp đặt.
+- Không bán tranh thuần.
+- Giúp con người nhớ lại điều họ đã lựa chọn để sống.
+
+Đợi Bồ Đề:
+
+- Kênh chứng minh.
+- Không bán cảm xúc.
+- Không tự tâng bốc.
+- Không tự nhận tốt.
+- Dùng sản phẩm thật, quy trình thật, con người thật để tạo niềm tin.
+
+---
+
+### Giả thuyết đang khám phá
+
+Chưa xác nhận.
+
+Không đưa vào LM_03B.
+
+Các giả thuyết cần tiếp tục đào:
+
+1. Một quyết định lớn thường không xoay quanh sản phẩm.
+2. Một quyết định có thể liên quan đến phiên bản con người mà người ra quyết định muốn trở thành.
+3. Có những quyết định xuất hiện khi mong muốn lớn hơn nỗi sợ.
+4. Một số quyết định là sự đánh đổi hiện tại để bảo vệ hoặc đạt tới điều quan trọng hơn.
+5. Nội dung có chiều sâu không phải vì người làm nhét nhiều ý, mà vì một câu chuyện thật có nhiều lớp ý nghĩa để người xem tự tìm thấy mình.
+6. Content không tạo ra thời điểm cuộc đời.
+7. Content có thể rút ngắn khoảng cách từ khi nhu cầu đã hình thành đến khi hành động xảy ra.
+
+---
+
+### Dữ liệu đã khám phá trong phiên
+
+Các quyết định thật đã được đào:
+
+1. Mua máy quay góc nhìn cá nhân.
+
+Dữ liệu nổi bật:
+
+- Người dùng đã muốn làm nội dung từ lâu.
+- Đã nhiều lần khởi động nhưng dừng lại.
+- Mua máy không phải vì điện thoại không quay được.
+- Máy quay đóng vai trò như một điểm bắt đầu thật.
+- Quyết định này giúp người dùng vượt qua trì hoãn và nỗi sợ bị nhìn thấy.
+
+2. Xây Archi.
+
+Dữ liệu nổi bật:
+
+- Người dùng biết AI là tương lai nhưng từng chống lại việc dùng AI.
+- Rào cản chính là sợ mất giá trị bản thân, sợ tụt hậu, sợ không theo kịp.
+- Ban đầu muốn tạo AI toàn năng.
+- Sau đó nhận ra phải chia nhỏ vai trò GPT.
+- Quyết định tiếp tục vì xem AI là cách giúp bản thân đi nhanh hơn, không phải thay thế bản thân.
+
+3. Mở xưởng sản xuất gỗ.
+
+Dữ liệu nổi bật:
+
+- Người dùng biết mình thiếu kiến thức, thiếu kỹ thuật, thiếu năng lực vận hành.
+- Vẫn mở xưởng vì muốn tương lai tốt hơn.
+- Muốn có sự nghiệp, tài chính, vị trí trong lĩnh vực.
+- Nhìn thấy mô hình người khác thành công.
+- Mong muốn tương lai lớn hơn nỗi sợ hiện tại.
+
+4. Giữ con học trường cũ dù nhà mới xa hơn.
+
+Dữ liệu nổi bật:
+
+- Lựa chọn thuận tiện hơn là chuyển trường gần nhà.
+- Người dùng vẫn giữ trường cũ một thời gian.
+- Lý do là không muốn con phải thích nghi hai lần trong thời gian ngắn.
+- Người dùng chấp nhận mất thời gian đưa đón để bảo vệ sự ổn định cảm xúc cho con.
+
+---
+
+### Bài học phương pháp
+
+Không nghiên cứu khách hàng bằng cách đoán nội tâm khách từ góc nhìn người bán.
+
+Cần phân biệt:
+
+- Người ra quyết định.
+- Người quan sát quyết định.
+- AI suy luận.
+
+Nguồn mạnh nhất là chính người ra quyết định.
+
+Vì vậy, trước khi nghiên cứu khách hàng Bồ Đề, có thể đào sâu các quyết định thật của chính người dùng để hiểu cấu trúc ra quyết định.
+
+Sau đó mới đối chiếu với dữ liệu khách hàng.
+
+---
+
+### Hành động tiếp theo
+
+Phiên sau tiếp tục Khối 1 - Hiểu con người.
+
+Không nhảy sang thiết kế video.
+
+Không nhảy sang format.
+
+Không khóa động cơ.
+
+Tiếp tục đào thêm quyết định thật.
+
+Câu hỏi trung tâm:
+
+Người này đã chấp nhận đánh đổi điều gì, và họ đang cố bảo vệ hoặc đạt tới điều gì?
