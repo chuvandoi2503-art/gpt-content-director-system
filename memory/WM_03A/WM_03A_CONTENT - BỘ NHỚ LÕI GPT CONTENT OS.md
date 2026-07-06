@@ -59,19 +59,19 @@ GPT Content OS chịu trách nhiệm:
 
 Mục tiêu cốt lõi:
 
-Dữ liệu đời sống thật
+Research
 
 ↓
 
-Khám phá
+Dữ liệu đời sống
 
 ↓
 
-Xác nhận quy luật
+Khai thác không gian ý nghĩa
 
 ↓
 
-Kiến trúc hóa
+Kiến trúc hóa nội dung
 
 ↓
 
@@ -92,6 +92,14 @@ Tiết kiệm render
 ↓
 
 Giữ tính nhất quán dài hạn
+
+---
+
+Content OS không tự tạo nguyên liệu.
+
+Content OS nhận nguyên liệu từ Research, người dùng hoặc dữ liệu đời sống đã được cung cấp.
+
+Content OS chịu trách nhiệm biến dữ liệu đó thành cấu trúc nội dung có logic.
 
 ---
 
@@ -143,53 +151,85 @@ GPT hỗ trợ kiến trúc, phân tích, phản biện và đề xuất.
 
 GPT Content OS vận hành theo 3 khối:
 
-## Khối 1: Hiểu con người
+## Khối 1: Khai thác không gian ý nghĩa
 
 Câu hỏi:
 
-Con người thật sự đang sống như thế nào?
+Dữ liệu đời sống này mở ra không gian ý nghĩa nào?
+
+Đầu vào:
+
+- Dữ liệu từ Research.
+- Câu chuyện thật.
+- Tình huống đời sống.
+- Quyết định.
+- Khoảnh khắc.
+- Câu nói.
+- Hành động.
+- Sự đánh đổi.
+- Nghi thức.
+- Vật thể có ý nghĩa.
+- Dữ liệu liên quan đến hệ giá trị mà thương hiệu lựa chọn hiện diện.
 
 Tìm:
 
-- Dữ liệu đời sống.
-- Quyết định thật.
-- Hoàn cảnh thật.
-- Rào cản thật.
-- Mong muốn thật.
-- Điều con người đánh đổi.
-- Điều con người muốn bảo vệ hoặc đạt tới.
+- Những tầng ý nghĩa có thể cùng tồn tại.
+- Những giá trị sống được gợi ra.
+- Những điểm chạm có thể khiến người xem tự liên hệ.
+- Những điều nên nói thẳng.
+- Những điều nên để người xem tự nhận ra.
+- Những dữ kiện đã có cơ sở.
+- Những phần còn là suy luận.
+- Mối liên hệ giữa dữ liệu đời sống và sản phẩm, thương hiệu hoặc giá trị thương hiệu.
+
+Không làm:
+
+- Không phân loại động cơ người xem.
+- Không kết luận động cơ lõi.
+- Không đoán tâm lý khách hàng.
+- Không ép một câu chuyện thành một insight duy nhất.
+- Không coi một trải nghiệm cá nhân là khuôn mẫu cho tất cả.
 
 ---
 
-## Khối 2: Xây kiến trúc giá trị
+## Khối 2: Kiến trúc hóa nội dung
 
 Câu hỏi:
 
-Hệ thống của mình sẽ đứng ở đâu trong cuộc sống đó?
+Sắp xếp không gian ý nghĩa đó thành nội dung có logic như thế nào?
 
 Tìm:
 
-- Giá trị.
-- Hệ tư tưởng.
-- Lời hứa.
-- Vai trò kênh.
-- Vai trò thương hiệu hoặc vai trò hệ nội dung.
+- Góc kể.
+- Trật tự các tầng ý nghĩa.
+- Nhịp dẫn dắt.
+- Điểm mở đầu.
+- Điểm chuyển.
+- Điểm gợi nhớ.
+- Điểm tự chiếu trải nghiệm.
+- Điểm gợi ý hành động tiếp theo.
+- Vai trò của sản phẩm hoặc thương hiệu trong câu chuyện.
+- Cấu trúc phù hợp từng kênh.
 
 ---
 
-## Khối 3: Chuyển hóa thành nội dung
+## Khối 3: Chuyển hóa thành output
 
 Câu hỏi:
 
-Hôm nay sẽ kể lại điều đó bằng cách nào?
+Hôm nay sẽ thể hiện cấu trúc đó bằng output nào?
 
 Tìm:
 
-- Asset phù hợp.
-- Lăng kính tư duy.
-- Cách diễn đạt.
-- Output.
-- Tỷ lệ test.
+- Kịch bản.
+- Shotlist.
+- Text màn hình.
+- Voice.
+- Caption.
+- CTA.
+- Biến thể output.
+- Cách tiết kiệm quay.
+- Cách tiết kiệm render.
 - Hướng kiểm chứng tiếp theo.
 
 ---
@@ -302,13 +342,25 @@ Niềm tin
 
 ### Trạng thái
 
-ĐANG HOÀN THIỆN KHỐI 1 - HIỂU CON NGƯỜI.
+ĐANG HOÀN THIỆN KHỐI 1 - KHAI THÁC KHÔNG GIAN Ý NGHĨA.
+
+Đã dừng hướng tìm động cơ lõi của con người.
+
+Đã xác định Content OS không mô hình hóa tâm lý người xem.
+
+Trọng tâm hiện tại:
+
+- Xác định hệ giá trị mà Hệ Bồ Đề lựa chọn hiện diện.
+- Xây nhu cầu Research cho Hệ Bồ Đề.
+- Thu thập dữ liệu đời sống liên quan đến hệ giá trị đó.
+- Chuẩn hóa dữ liệu Research thành input cho Content OS.
+- Sau khi có dữ liệu, mới kiến trúc hóa nội dung.
 
 Chưa chuyển sang thiết kế format cuối cùng.
 
-Chưa khóa cấu trúc động cơ.
-
 Chưa khóa cấu trúc video.
+
+Chưa triển khai output khi thiếu dữ liệu Research.
 
 ---
 
