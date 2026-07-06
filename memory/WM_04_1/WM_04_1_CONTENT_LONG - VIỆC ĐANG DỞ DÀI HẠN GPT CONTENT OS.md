@@ -33,7 +33,11 @@ Chưa chuyển sang thiết kế format cuối cùng.
 
 Trọng tâm hiện tại:
 
-Hoàn thiện Khối 1 - Hiểu con người.
+Hoàn thiện Khối 1 - Khai thác không gian ý nghĩa.
+
+Không tiếp tục đi theo hướng tìm động cơ lõi của con người.
+
+Cần xây Research để tạo mỏ dữ liệu đời sống cho Hệ Bồ Đề trước khi kiến trúc hóa format và output.
 
 ---
 
@@ -125,11 +129,15 @@ Chỉ dùng:
 
 ### Bồ Đề Việt
 
-Dữ liệu đời sống thật
+Research
 
 ↓
 
-Điều con người muốn nhớ lại
+Dữ liệu đời sống liên quan đến hệ giá trị Bồ Đề
+
+↓
+
+Không gian ý nghĩa
 
 ↓
 
@@ -159,25 +167,51 @@ Niềm tin
 
 Không đi thẳng từ sản phẩm sang video.
 
+Không đi thẳng từ ý tưởng sang video.
+
+Không đi thẳng từ động cơ suy đoán sang video.
+
 Phải đi theo hướng:
 
-Dữ liệu đời sống
+Hệ giá trị thương hiệu
 
 ↓
 
-Khám phá điều con người đang sống
+Research dữ liệu đời sống
 
 ↓
 
-Tìm điều họ muốn gửi gắm hoặc bảo vệ
+Không gian ý nghĩa
 
 ↓
 
-Gợi nhớ
+Kiến trúc nội dung
 
 ↓
 
-Tác phẩm
+Output
+
+---
+
+Với Hệ Bồ Đề, dữ liệu đời sống cần liên quan đến các giá trị mà thương hiệu lựa chọn hiện diện.
+
+Ví dụ:
+
+- Hiếu.
+- Lễ.
+- Nghĩa.
+- Biết ơn.
+- Gia đình.
+- Trách nhiệm.
+- Ký ức.
+- Sự gắn bó.
+- Những điều con người muốn giữ theo thời gian.
+
+Content OS không tự bịa dữ liệu.
+
+Content OS không cố đoán động cơ khách hàng.
+
+Content OS chỉ kiến trúc hóa dữ liệu đã có thành không gian ý nghĩa và output phù hợp.
 
 ---
 
