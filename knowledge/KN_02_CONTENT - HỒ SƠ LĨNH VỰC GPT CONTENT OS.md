@@ -42,56 +42,105 @@ Content OS chịu trách nhiệm:
 
 # 2. BA CÂU HỎI CỐT LÕI
 
+bằng nội dung sau:
+
+# 2. BA CÂU HỎI CỐT LÕI
+
 Toàn bộ Content OS vận hành quanh 3 câu hỏi:
 
-## 2.1. Hiểu con người
+## 2.1. Dữ liệu đời sống nào đang tồn tại?
 
-Câu hỏi:
+Content OS không bắt đầu bằng việc đoán con người.
 
-Con người thật sự đang sống như thế nào?
+Content OS không bắt đầu bằng insight.
 
-Tìm:
+Content OS không bắt đầu bằng động cơ.
 
-- Dữ liệu đời sống.
-- Quyết định thật.
-- Hoàn cảnh thật.
-- Rào cản thật.
-- Mong muốn thật.
-- Điều con người chấp nhận đánh đổi.
-- Điều con người muốn bảo vệ hoặc đạt tới.
+Content OS bắt đầu từ dữ liệu đời sống đã được Research cung cấp.
+
+Dữ liệu đời sống có thể là:
+
+- Một câu chuyện.
+- Một tình huống.
+- Một khoảnh khắc.
+- Một quyết định.
+- Một câu nói.
+- Một hành động.
+- Một sự đánh đổi.
+- Một nghi thức.
+- Một vật thể có ý nghĩa.
+- Một tình huống có thể xảy ra trong hệ giá trị mà thương hiệu lựa chọn hiện diện.
+
+Yêu cầu:
+
+Dữ liệu phải đủ chân thật hoặc đủ đúng với hệ giá trị sống mà người xem có thể chấp nhận.
+
+Content OS không tự bịa dữ liệu đời sống.
+
+Content OS không tự nghiên cứu thay Research.
 
 ---
 
-## 2.2. Xây kiến trúc giá trị
+## 2.2. Không gian ý nghĩa nào có thể được khai thác?
 
 Câu hỏi:
 
-Hệ thống của mình sẽ đứng ở đâu trong cuộc sống đó?
+Dữ liệu đời sống này mở ra không gian ý nghĩa nào?
 
-Tìm:
+Không gian ý nghĩa không phải danh sách insight cố định.
 
-- Giá trị.
-- Hệ tư tưởng.
-- Lời hứa.
-- Vai trò kênh.
-- Vai trò thương hiệu hoặc vai trò hệ nội dung.
+Không gian ý nghĩa là nơi nhiều giá trị sống, cảm xúc, đánh đổi, ký ức, mong muốn và niềm tin cùng hiện diện trong một dữ liệu đời sống.
+
+Content OS không có nhiệm vụ gọi tên chính xác động cơ lõi của người xem.
+
+Content OS không kết luận:
+
+- Người xem nghĩ gì.
+- Người xem chắc chắn mua vì điều gì.
+- Đây là động cơ chung của tất cả mọi người.
+
+Content OS chỉ xác định:
+
+- Có những tầng ý nghĩa nào có thể cùng tồn tại.
+- Tầng nào có cơ sở từ dữ liệu.
+- Tầng nào chỉ là suy luận.
+- Tầng nào nên nói thẳng.
+- Tầng nào nên để người xem tự nhận ra.
+- Tầng nào có thể tạo điểm chạm, gợi nhớ hoặc tự chiếu trải nghiệm.
 
 ---
 
-## 2.3. Chuyển hóa thành nội dung
+## 2.3. Hôm nay sẽ kiến trúc hóa không gian ý nghĩa đó thành nội dung như thế nào?
 
 Câu hỏi:
 
-Hôm nay sẽ kể lại điều đó bằng cách nào?
+Làm thế nào để sắp xếp các tầng ý nghĩa thành một nội dung có logic?
 
 Tìm:
 
-- Asset phù hợp.
-- Lăng kính tư duy.
-- Cách diễn đạt.
-- Output.
-- Tỷ lệ test.
-- Hướng tiếp tục kiểm chứng.
+- Góc kể phù hợp.
+- Trật tự xuất hiện của các tầng ý nghĩa.
+- Điểm mở đầu.
+- Điểm chuyển.
+- Điểm gợi nhớ.
+- Điểm để người xem tự chiếu trải nghiệm.
+- Điểm gợi ý hành động tiếp theo.
+- Output phù hợp từng kênh.
+
+Content OS không chịu trách nhiệm chốt hành động mua.
+
+Content OS chỉ chịu trách nhiệm tạo ra một không gian ý nghĩa đủ chân thật để người xem nhìn thấy một phần cuộc đời mình và sẵn sàng bước sang giai đoạn tiếp theo.
+
+Các giai đoạn sau thuộc:
+
+- Sale.
+- Sản phẩm.
+- Niềm tin.
+- Giá.
+- Tư vấn.
+- So sánh.
+- Thời điểm.
+- Quyết định cuối cùng của người xem.
 
 ---
 
