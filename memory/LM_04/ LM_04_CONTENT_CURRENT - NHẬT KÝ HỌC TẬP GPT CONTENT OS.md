@@ -568,3 +568,185 @@ Tiếp tục đào thêm quyết định thật.
 Câu hỏi trung tâm:
 
 Người này đã chấp nhận đánh đổi điều gì, và họ đang cố bảo vệ hoặc đạt tới điều gì?
+
+## Nhật ký phiên 2026-07-04 - Chuyển Khối 1 sang hướng Không gian ý nghĩa
+
+### Bối cảnh
+
+Phiên làm việc tiếp tục từ Khối 1 của Hệ Bồ Đề.
+
+Ban đầu GPT và người dùng tiếp tục đào các quyết định thật để tìm cấu trúc ra quyết định của con người.
+
+Quyết định được đào thêm trong phiên:
+
+Mua ô tô khoảng 300 triệu.
+
+Dữ liệu nổi bật:
+
+- Người dùng đã có mong muốn mua ô tô từ lâu.
+- Trong tiềm thức có hình mẫu đàn ông thành công gắn với nhà và xe.
+- Việc mua xe chủ yếu phục vụ vợ con, nhất là khi có con nhỏ.
+- Nếu chỉ phục vụ cá nhân, người dùng nhiều khả năng không mua.
+- Vẫn có yếu tố thể hiện bản thân, nhưng là yếu tố phụ.
+- Khi hành động có lý do chính đáng cho gia đình, nó cũng thỏa mãn một phần mong muốn sâu bên trong của bản thân mà không tạo cảm giác ích kỷ.
+
+---
+
+### Sai lệch đã phát hiện
+
+GPT và người dùng nhận ra hướng đào động cơ lõi đang sai giới hạn.
+
+Lý do:
+
+- Con người quá phức tạp để mô hình hóa chắc chắn.
+- Cùng một hành động có thể có cấu trúc ý nghĩa khác nhau ở mỗi người.
+- Một yếu tố là động cơ chính với người này có thể chỉ là yếu tố phụ với người khác.
+- Nếu Content OS cố tìm động cơ chung, GPT sẽ dễ áp đặt tâm lý.
+- Content OS không phải nhà nghiên cứu tâm lý học.
+
+---
+
+### Quyết định kiến trúc mới
+
+Khối 1 không tiếp tục đi theo hướng:
+
+Hiểu con người để tìm động cơ.
+
+Khối 1 chuyển sang hướng:
+
+Khai thác không gian ý nghĩa.
+
+Đối tượng xử lý không còn là:
+
+- Người xem.
+- Persona.
+- Insight.
+- Động cơ.
+- Tâm lý khách hàng.
+
+Đối tượng xử lý là:
+
+- Dữ liệu đời sống.
+- Câu chuyện.
+- Tình huống.
+- Khoảnh khắc.
+- Quyết định.
+- Hành động.
+- Câu nói.
+- Sự đánh đổi.
+- Nghi thức.
+- Vật thể có ý nghĩa.
+
+---
+
+### Khái niệm mới
+
+Không gian ý nghĩa:
+
+Là cấu trúc nơi nhiều giá trị sống, cảm xúc, ký ức, mong muốn, đánh đổi và niềm tin cùng hiện diện trong một dữ liệu đời sống.
+
+Content OS không gọi tên động cơ cuối cùng thay người xem.
+
+Content OS chỉ thiết kế không gian để người xem tự chiếu trải nghiệm của mình vào.
+
+Ý nghĩa cuối cùng được hoàn thành trong tâm trí người xem.
+
+---
+
+### Ranh giới mới của Content
+
+Content không chịu trách nhiệm toàn bộ hành trình mua.
+
+Content không thay:
+
+- Sale.
+- Tư vấn.
+- Sản phẩm.
+- Niềm tin.
+- Giá.
+- So sánh.
+- Thời điểm.
+- Quyết định cuối cùng của khách hàng.
+
+Content chỉ chịu trách nhiệm:
+
+- Gợi nhớ.
+- Tạo điểm chạm.
+- Mở ra vấn đề.
+- Mở ra câu hỏi.
+- Gợi ý hành động tiếp theo khi phù hợp.
+
+Sau Content, người xem có thể tiếp tục:
+
+- Hỏi thêm.
+- Suy nghĩ.
+- So sánh.
+- Tham khảo.
+- Chờ thời điểm.
+- Được Sale giải đáp.
+- Kiểm chứng chất lượng sản phẩm.
+
+---
+
+### Phát hiện về Research
+
+Hệ Bồ Đề hiện chưa thiếu khả năng viết content.
+
+Hệ Bồ Đề đang thiếu mỏ dữ liệu đời sống.
+
+Cần Research trước khi Content OS kiến trúc hóa.
+
+Research không nên tạo:
+
+- Insight.
+- Persona.
+- Pain point.
+- Động cơ.
+
+Research nên tạo dữ liệu đời sống liên quan đến hệ giá trị mà thương hiệu lựa chọn hiện diện.
+
+Với Hệ Bồ Đề, các hướng dữ liệu cần nghiên cứu gồm:
+
+- Hiếu.
+- Lễ.
+- Nghĩa.
+- Biết ơn.
+- Gia đình.
+- Trách nhiệm.
+- Ký ức.
+- Sự gắn bó.
+- Những điều con người muốn giữ theo thời gian.
+
+---
+
+### Pipeline mới
+
+Research
+
+↓
+
+Dữ liệu đời sống
+
+↓
+
+Không gian ý nghĩa
+
+↓
+
+Kiến trúc nội dung
+
+↓
+
+Output
+
+---
+
+### Hành động tiếp theo
+
+Dừng đào động cơ cá nhân.
+
+Chuyển sang thiết kế Research cho Hệ Bồ Đề.
+
+Câu hỏi trung tâm phiên sau:
+
+Research cần tạo ra loại dữ liệu đời sống nào để Content OS có thể khai thác không gian ý nghĩa cho Hệ Bồ Đề?
