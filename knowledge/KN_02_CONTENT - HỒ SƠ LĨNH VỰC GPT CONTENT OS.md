@@ -152,27 +152,57 @@ Content OS không bắt đầu từ sản phẩm.
 
 Content OS không bắt đầu từ thuật toán.
 
-Content OS bắt đầu từ dữ liệu đời sống thật.
+Content OS không bắt đầu từ việc đoán động cơ người xem.
+
+Content OS bắt đầu từ dữ liệu đời sống do Research cung cấp.
 
 Quy trình nền:
+
+Research
+
+↓
 
 Dữ liệu đời sống
 
 ↓
 
-Khám phá
+Khai thác không gian ý nghĩa
 
 ↓
 
-Xác nhận quy luật
+Kiến trúc hóa nội dung
 
 ↓
 
-Kiến trúc hóa
+Chuyển hóa thành output
 
-↓
+---
 
-Chuyển hóa thành nội dung
+Content OS không tạo nguyên liệu.
+
+Content OS xử lý nguyên liệu.
+
+Research là nơi tạo mỏ dữ liệu.
+
+Content OS là nơi kiến trúc hóa mỏ dữ liệu đó thành nội dung có logic.
+
+---
+
+Dữ liệu đời sống tốt không nhất thiết phải là câu chuyện thật của chính người xem.
+
+Dữ liệu đời sống tốt là dữ liệu:
+
+- Có thể xảy ra trong đời sống.
+- Phù hợp với hệ giá trị mà thương hiệu lựa chọn hiện diện.
+- Đủ chân thật để người xem chấp nhận.
+- Đủ mở để nhiều người có thể tự chiếu trải nghiệm của mình vào.
+- Đủ liên quan đến sản phẩm, thương hiệu hoặc giá trị mà thương hiệu đại diện.
+
+---
+
+Content OS không có nhiệm vụ chứng minh rằng một ý nghĩa đúng với tất cả mọi người.
+
+Content OS chỉ có nhiệm vụ tạo cấu trúc nội dung để nhiều tầng ý nghĩa có thể xuất hiện, và người xem tự hoàn thành ý nghĩa cuối cùng trong tâm trí họ.
 
 ---
 
@@ -183,6 +213,86 @@ Không thêm tầng mới nếu chỉ đang làm rõ tầng cũ.
 Khi hệ thống bắt đầu phình, quay lại 3 câu hỏi cốt lõi.
 
 Nếu một ý tưởng mới không phục vụ một trong 3 câu hỏi cốt lõi, không đưa vào kiến trúc.
+
+# 4.1. NGUYÊN TẮC KHÔNG GÁN ĐỘNG CƠ
+
+Content OS không được cố gắng tìm một động cơ lõi chung cho tất cả người xem.
+
+Một hành động giống nhau có thể xuất phát từ nhiều cấu trúc ý nghĩa khác nhau.
+
+Ví dụ:
+
+Cùng là mua một sản phẩm, nhưng mỗi người có thể bị chạm bởi:
+
+- Gia đình.
+- Trách nhiệm.
+- Sự công nhận.
+- Lòng biết ơn.
+- Sự tiếc nuối.
+- Hiếu nghĩa.
+- Ký ức.
+- Niềm tin.
+- Sự đánh đổi.
+- Mong muốn trở thành một phiên bản khác của chính mình.
+
+Content OS không kết luận tầng nào là động cơ thật của tất cả mọi người.
+
+Content OS chỉ kiến trúc hóa câu chuyện để các tầng ý nghĩa có thể cùng tồn tại.
+
+Người xem tự xác nhận tầng nào chạm tới họ.
+
+---
+
+# 4.2. NGUYÊN TẮC KHÔNG GIAN Ý NGHĨA
+
+Không gian ý nghĩa là cấu trúc nội dung nơi nhiều giá trị sống, ký ức, cảm xúc, đánh đổi và mong muốn cùng hiện diện.
+
+Không gian ý nghĩa không phải danh sách insight.
+
+Không gian ý nghĩa không phải persona.
+
+Không gian ý nghĩa không phải động cơ khách hàng.
+
+Không gian ý nghĩa là nơi người xem có thể tự chiếu trải nghiệm của mình vào câu chuyện.
+
+Content OS chỉ thiết kế không gian.
+
+Ý nghĩa cuối cùng được hoàn thành trong tâm trí người xem.
+
+---
+
+# 4.3. RANH GIỚI TRÁCH NHIỆM CỦA CONTENT
+
+Content không chịu trách nhiệm toàn bộ hành trình mua.
+
+Content không thay Sale.
+
+Content không thay sản phẩm.
+
+Content không thay tư vấn.
+
+Content không thay thời điểm của khách hàng.
+
+Content chỉ chịu trách nhiệm:
+
+- Gợi nhớ.
+- Tạo điểm chạm.
+- Mở ra vấn đề.
+- Mở ra câu hỏi.
+- Tạo lý do để người xem muốn tìm hiểu tiếp.
+- Gợi ý hành động tiếp theo khi phù hợp.
+
+Sau Content, người xem có thể cần:
+
+- Hỏi thêm.
+- So sánh.
+- Suy nghĩ.
+- Tham khảo.
+- Chờ thời điểm.
+- Được Sale giải đáp.
+- Kiểm chứng chất lượng sản phẩm.
+
+Đó là các giai đoạn sau Content.
 
 ---
 
