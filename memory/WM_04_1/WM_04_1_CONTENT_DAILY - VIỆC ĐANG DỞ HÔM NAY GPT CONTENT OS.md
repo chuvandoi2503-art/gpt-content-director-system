@@ -28,34 +28,102 @@ File này được phép thay đổi thường xuyên.
 
 Trạng thái hiện tại:
 
-ĐANG HOÀN THIỆN KHỐI 1 - HIỂU CON NGƯỜI.
+ĐANG HOÀN THIỆN KHỐI 1 - KHAI THÁC KHÔNG GIAN Ý NGHĨA.
 
-Mục tiêu hiện tại:
+Quyết định mới trong phiên:
 
-Khám phá cách con người đưa ra quyết định trong đời sống thật.
+Dừng hướng nghiên cứu động cơ lõi của con người.
 
-Không chuyển sang thiết kế format hoặc video trước khi hoàn thành bước khám phá đủ dữ liệu.
+Không tiếp tục cố mô hình hóa tâm lý người xem.
+
+Content OS không làm nhà nghiên cứu tâm lý học.
+
+Content OS làm kiến trúc nội dung.
+
+---
+
+## Hướng đã chốt
+
+Khối 1 không còn được hiểu là:
+
+Hiểu con người để tìm động cơ.
+
+Khối 1 được hiểu lại là:
+
+Khai thác không gian ý nghĩa từ dữ liệu đời sống.
+
+Đối tượng xử lý không phải:
+
+- Người xem.
+- Persona.
+- Insight.
+- Động cơ.
+- Tâm lý khách hàng.
+
+Đối tượng xử lý là:
+
+- Dữ liệu đời sống.
+- Câu chuyện.
+- Tình huống.
+- Khoảnh khắc.
+- Quyết định.
+- Hành động.
+- Sự đánh đổi.
+- Câu nói.
+- Nghi thức.
+- Vật thể có ý nghĩa.
+
+---
+
+## Định nghĩa làm việc
+
+Không gian ý nghĩa là cấu trúc nơi nhiều giá trị sống, cảm xúc, ký ức, mong muốn, đánh đổi và niềm tin cùng hiện diện trong một dữ liệu đời sống.
+
+Content OS không cố gọi tên chính xác động cơ của người xem.
+
+Content OS chỉ sắp xếp một không gian đủ chân thật để người xem tự nhìn thấy một phần cuộc đời mình.
+
+Ý nghĩa cuối cùng được người xem tự hoàn thành.
+
+---
+
+## Ranh giới Content
+
+Content không chịu trách nhiệm toàn bộ hành trình mua.
+
+Content chỉ chịu trách nhiệm:
+
+- Gợi nhớ.
+- Tạo điểm chạm.
+- Mở ra vấn đề.
+- Mở ra câu hỏi.
+- Gợi ý hành động tiếp theo khi phù hợp.
+
+Các phần sau thuộc:
+
+- Sale.
+- Sản phẩm.
+- Niềm tin.
+- Giá.
+- Tư vấn.
+- So sánh.
+- Thời điểm.
+- Quyết định cuối cùng của người xem.
 
 ---
 
 ## Việc đã chốt trong phiên
 
-Đã chốt 3 câu hỏi cốt lõi của Content OS:
-
-1. Con người thật sự đang sống như thế nào?
-2. Hệ thống của mình sẽ đứng ở đâu trong cuộc sống đó?
-3. Hôm nay sẽ kể lại điều đó bằng cách nào?
-
 Đã chốt:
 
-- Content OS là GPT kiến trúc nội dung.
-- Không phải GPT viết content đơn thuần.
-- Không phải GPT render.
-- Không phải GPT publish.
-- Không phải GPT toàn năng.
-- Dữ liệu đời sống là điểm bắt đầu.
-- Khám phá trước, kiến trúc hóa sau.
-- Khi hệ thống phình, quay lại 3 câu hỏi cốt lõi.
+- Content OS không mô hình hóa con người.
+- Content OS mô hình hóa cấu trúc nội dung.
+- Research là nơi tạo nguyên liệu.
+- Content OS là nơi kiến trúc hóa nguyên liệu.
+- Đầu vào tốt của Content OS là dữ liệu đời sống đã được Research chuẩn hóa.
+- Hệ Bồ Đề đang thiếu mỏ dữ liệu đời sống liên quan đến hệ giá trị.
+- Không nên tiếp tục ép Content OS tự suy diễn từ thiếu input.
+- Cần chuyển sang làm Research trước khi kiến trúc hóa output.
 
 ---
 
@@ -69,74 +137,52 @@ Bồ Đề Việt:
 - Không chữa lành.
 - Không áp đặt.
 - Không bán tranh thuần.
+- Gợi nhớ những giá trị sống mà người xem hoặc khách hàng đã có sẵn trong lòng.
 
 Đợi Bồ Đề:
 
 - Kênh chứng minh.
-- Dùng sản phẩm thật, quy trình thật, con người thật để tạo niềm tin.
+- Dùng sản phẩm thật, quy trình thật, con người thật, tiêu chuẩn thật để tạo niềm tin.
+- Chứng minh rằng tác phẩm đủ xứng đáng để người xem gửi gắm một giá trị.
 
 ---
 
-## Việc đang khám phá
+## Giả thuyết kiến trúc đang giữ ở Daily
 
-Đang khám phá các quyết định thật để tìm cấu trúc ra quyết định của con người.
+Chưa đưa vào LM_03B.
 
-Các quyết định đã đào trong phiên:
+Chỉ giữ ở Daily để tiếp tục kiểm chứng:
 
-1. Mua máy quay góc nhìn cá nhân.
-2. Xây Archi.
-3. Mở xưởng sản xuất gỗ.
-4. Giữ con học trường cũ dù xa nhà.
-
-Trạng thái:
-
-Chưa kết luận thành quy luật.
-
-Chỉ xem là dữ liệu khám phá.
-
----
-
-## Giả thuyết mạnh nhưng chưa khóa
-
-Chưa lưu vào LM_03B.
-
-Chỉ giữ ở Daily để tiếp tục khám phá:
-
-- Một quyết định lớn thường không xoay quanh sản phẩm.
-- Quyết định có thể liên quan đến phiên bản con người mà người ra quyết định muốn trở thành.
-- Có những quyết định xuất hiện khi mong muốn lớn hơn nỗi sợ.
-- Một số quyết định là sự đánh đổi hiện tại để bảo vệ hoặc đạt tới điều quan trọng hơn.
-- Nội dung có chiều sâu không phải vì người làm nhét nhiều ý, mà vì một câu chuyện thật có nhiều lớp ý nghĩa để người xem tự tìm thấy mình.
-- Content không tạo ra thời điểm cuộc đời.
-- Content có thể rút ngắn khoảng cách từ khi nhu cầu đã hình thành đến khi hành động xảy ra.
-
-Tất cả vẫn là giả thuyết.
-
-Cần tiếp tục khám phá thêm dữ liệu.
+- Research mới là điểm bắt đầu của Content OS.
+- Content OS không sinh nguyên liệu, chỉ kiến trúc hóa nguyên liệu.
+- Hệ Bồ Đề cần một kho dữ liệu đời sống liên quan đến các giá trị như hiếu, lễ, nghĩa, biết ơn, gia đình, trách nhiệm, ký ức, sự gắn bó và những điều con người muốn giữ theo thời gian.
+- Một nội dung có chiều sâu không phải vì GPT gọi tên đúng động cơ, mà vì nội dung mở ra đủ không gian ý nghĩa để người xem tự chiếu trải nghiệm của mình vào.
+- Sản phẩm không phải trung tâm mặc định của câu chuyện.
+- Sản phẩm hoặc thương hiệu nên hiện diện như vật mang, vật chứa, vật gợi nhớ hoặc bằng chứng của một giá trị sống.
+- Content không cần chốt hành động mua, chỉ cần đưa người xem sang bước tiếp theo của hành trình.
 
 ---
 
 ## Việc tiếp theo
 
-Tiếp tục Khối 1 - Hiểu con người.
+Dừng đào động cơ cá nhân.
 
-Không thiết kế video ngay.
-
-Không khóa format ngay.
-
-Không kết luận về động cơ ngay.
+Chuyển sang thiết kế Research cho Hệ Bồ Đề.
 
 Việc cần làm tiếp:
 
-1. Đào thêm các quyết định thật từ người dùng.
-2. Chuyển sang các quyết định khác loại, không chỉ phát triển bản thân.
-3. Sau khi đủ dữ liệu, mới phân cụm.
-4. Sau khi phân cụm, mới rút quy luật.
-5. Sau khi quy luật đủ chắc, mới chuyển sang Khối 2 - Xây kiến trúc giá trị cho Hệ Bồ Đề.
+1. Xác định hệ giá trị cốt lõi mà Hệ Bồ Đề lựa chọn hiện diện.
+2. Thiết kế tiêu chuẩn đầu vào của Research.
+3. Xác định Research cần thu thập loại dữ liệu đời sống nào.
+4. Tạo mẫu output Research để nhập vào Content OS.
+5. Thu thập mẻ dữ liệu đầu tiên.
+6. Sau khi có dữ liệu Research, Content OS mới phân cụm không gian ý nghĩa.
+7. Sau khi phân cụm, mới kiến trúc hóa nội dung.
+8. Sau khi có kiến trúc nội dung, mới chuyển sang format và output.
 
 Câu hỏi trung tâm phiên sau:
 
-Người này đã chấp nhận đánh đổi điều gì, và họ đang cố bảo vệ hoặc đạt tới điều gì?
+Research cần tạo ra loại dữ liệu đời sống nào để Content OS có thể khai thác không gian ý nghĩa cho Hệ Bồ Đề?
 
 ---
 
