@@ -24,165 +24,158 @@ File này được phép thay đổi thường xuyên.
 
 # CÔNG VIỆC HIỆN TẠI
 
-## Hệ Bồ Đề
+## Trạng thái chung
 
-Trạng thái hiện tại:
+ĐANG TÁI CẤU TRÚC GPT CONTENT OS.
 
-ĐANG HOÀN THIỆN KHỐI 1 - KHAI THÁC KHÔNG GIAN Ý NGHĨA.
+Mục tiêu hiện tại:
 
-Quyết định mới trong phiên:
+Chốt kiến trúc Content trước khi thiết kế Profile.
 
-Dừng hướng nghiên cứu động cơ lõi của con người.
+Kiến trúc đã xác nhận:
 
-Không tiếp tục cố mô hình hóa tâm lý người xem.
+Core
 
-Content OS không làm nhà nghiên cứu tâm lý học.
+↓
 
-Content OS làm kiến trúc nội dung.
+Profile
 
----
+↓
 
-## Hướng đã chốt
+Research
 
-Khối 1 không còn được hiểu là:
+↓
 
-Hiểu con người để tìm động cơ.
+Content
 
-Khối 1 được hiểu lại là:
+↓
 
-Khai thác không gian ý nghĩa từ dữ liệu đời sống.
-
-Đối tượng xử lý không phải:
-
-- Người xem.
-- Persona.
-- Insight.
-- Động cơ.
-- Tâm lý khách hàng.
-
-Đối tượng xử lý là:
-
-- Dữ liệu đời sống.
-- Câu chuyện.
-- Tình huống.
-- Khoảnh khắc.
-- Quyết định.
-- Hành động.
-- Sự đánh đổi.
-- Câu nói.
-- Nghi thức.
-- Vật thể có ý nghĩa.
+User
 
 ---
 
-## Định nghĩa làm việc
+## Quyết định đã chốt
 
-Không gian ý nghĩa là cấu trúc nơi nhiều giá trị sống, cảm xúc, ký ức, mong muốn, đánh đổi và niềm tin cùng hiện diện trong một dữ liệu đời sống.
+Content OS:
 
-Content OS không cố gọi tên chính xác động cơ của người xem.
+- Nhận input thật.
+- QC Input.
+- Xác định Profile.
+- Tra Profile.
+- Thực hiện Knowledge Gap Analysis.
+- Tạo Research Request khi cần.
+- Đánh giá Research Package.
+- Kiến trúc hóa nội dung.
+- QC Output.
+- Đề xuất cập nhật Profile.
 
-Content OS chỉ sắp xếp một không gian đủ chân thật để người xem tự nhìn thấy một phần cuộc đời mình.
+Content OS không:
 
-Ý nghĩa cuối cùng được người xem tự hoàn thành.
-
----
-
-## Ranh giới Content
-
-Content không chịu trách nhiệm toàn bộ hành trình mua.
-
-Content chỉ chịu trách nhiệm:
-
-- Gợi nhớ.
-- Tạo điểm chạm.
-- Mở ra vấn đề.
-- Mở ra câu hỏi.
-- Gợi ý hành động tiếp theo khi phù hợp.
-
-Các phần sau thuộc:
-
-- Sale.
-- Sản phẩm.
-- Niềm tin.
-- Giá.
-- Tư vấn.
-- So sánh.
-- Thời điểm.
-- Quyết định cuối cùng của người xem.
+- Tự Research.
+- Tự giữ tri thức.
+- Tự lưu Data Bricks.
+- Tự lưu Assets.
+- Tự thay Profile.
+- Tự ghi GitHub.
 
 ---
 
-## Việc đã chốt trong phiên
+## Công việc đang thực hiện
 
-Đã chốt:
+1. QC lại toàn bộ Content OS.
 
-- Content OS không mô hình hóa con người.
-- Content OS mô hình hóa cấu trúc nội dung.
-- Research là nơi tạo nguyên liệu.
-- Content OS là nơi kiến trúc hóa nguyên liệu.
-- Đầu vào tốt của Content OS là dữ liệu đời sống đã được Research chuẩn hóa.
-- Hệ Bồ Đề đang thiếu mỏ dữ liệu đời sống liên quan đến hệ giá trị.
-- Không nên tiếp tục ép Content OS tự suy diễn từ thiếu input.
-- Cần chuyển sang làm Research trước khi kiến trúc hóa output.
+2. Tạo PATCH cập nhật Content OS.
+
+3. Chốt cấu trúc Content OS.
 
 ---
 
-## Hệ Bồ Đề đã chốt
+## Công việc CHƯA thực hiện
 
-Bồ Đề Việt:
+- Thiết kế Profile.
+- Thiết kế Taxonomy.
+- Thiết kế Data Bricks.
+- Thiết kế Assets.
+- Thiết kế Research.
+- Vận hành thực tế.
 
-- Kênh thương hiệu.
-- Vai trò là gợi nhớ.
-- Không dạy đời.
-- Không chữa lành.
-- Không áp đặt.
-- Không bán tranh thuần.
-- Gợi nhớ những giá trị sống mà người xem hoặc khách hàng đã có sẵn trong lòng.
-
-Đợi Bồ Đề:
-
-- Kênh chứng minh.
-- Dùng sản phẩm thật, quy trình thật, con người thật, tiêu chuẩn thật để tạo niềm tin.
-- Chứng minh rằng tác phẩm đủ xứng đáng để người xem gửi gắm một giá trị.
+Các phần trên sẽ thực hiện sau khi Content OS được chốt.
 
 ---
 
-## Giả thuyết kiến trúc đang giữ ở Daily
+## Pipeline hiện hành
 
-Chưa đưa vào LM_03B.
+Input thật
 
-Chỉ giữ ở Daily để tiếp tục kiểm chứng:
+↓
 
-- Research mới là điểm bắt đầu của Content OS.
-- Content OS không sinh nguyên liệu, chỉ kiến trúc hóa nguyên liệu.
-- Hệ Bồ Đề cần một kho dữ liệu đời sống liên quan đến các giá trị như hiếu, lễ, nghĩa, biết ơn, gia đình, trách nhiệm, ký ức, sự gắn bó và những điều con người muốn giữ theo thời gian.
-- Một nội dung có chiều sâu không phải vì GPT gọi tên đúng động cơ, mà vì nội dung mở ra đủ không gian ý nghĩa để người xem tự chiếu trải nghiệm của mình vào.
-- Sản phẩm không phải trung tâm mặc định của câu chuyện.
-- Sản phẩm hoặc thương hiệu nên hiện diện như vật mang, vật chứa, vật gợi nhớ hoặc bằng chứng của một giá trị sống.
-- Content không cần chốt hành động mua, chỉ cần đưa người xem sang bước tiếp theo của hành trình.
+QC Input
+
+↓
+
+Profile
+
+↓
+
+Knowledge Gap
+
+↓
+
+Research Request (nếu cần)
+
+↓
+
+Research Package
+
+↓
+
+Kiến trúc nội dung
+
+↓
+
+QC Output
+
+↓
+
+User QC
+
+↓
+
+Đề xuất cập nhật Profile
 
 ---
 
 ## Việc tiếp theo
 
-Dừng đào động cơ cá nhân.
+Sau khi PATCH được người dùng duyệt:
 
-Chuyển sang thiết kế Research cho Hệ Bồ Đề.
+1. Người dùng cập nhật GitHub.
 
-Việc cần làm tiếp:
+2. Khởi tạo lại phiên.
 
-1. Xác định hệ giá trị cốt lõi mà Hệ Bồ Đề lựa chọn hiện diện.
-2. Thiết kế tiêu chuẩn đầu vào của Research.
-3. Xác định Research cần thu thập loại dữ liệu đời sống nào.
-4. Tạo mẫu output Research để nhập vào Content OS.
-5. Thu thập mẻ dữ liệu đầu tiên.
-6. Sau khi có dữ liệu Research, Content OS mới phân cụm không gian ý nghĩa.
-7. Sau khi phân cụm, mới kiến trúc hóa nội dung.
-8. Sau khi có kiến trúc nội dung, mới chuyển sang format và output.
+3. Kiểm tra Content OS sau cập nhật.
 
-Câu hỏi trung tâm phiên sau:
+4. Chuyển sang GPT Kiến Trúc Sư để thiết kế Profile theo:
 
-Research cần tạo ra loại dữ liệu đời sống nào để Content OS có thể khai thác không gian ý nghĩa cho Hệ Bồ Đề?
+- Taxonomy.
+- Data Bricks.
+- Assets.
+
+5. Sau khi Profile hoàn thành:
+
+Bắt đầu vận hành thực tế.
+
+---
+
+## Câu hỏi trung tâm
+
+Profile cần có cấu trúc tối thiểu nào để Content OS có thể:
+
+- Tra cứu.
+- Xác định Knowledge Gap.
+- Tạo Research Request.
+- Sử dụng Research Package.
+- Đề xuất cập nhật Profile.
 
 ---
 
@@ -217,3 +210,20 @@ Chỉ đề xuất UPDATE_LM_03B_CONTENT_CURRENT khi:
 - Có dữ liệu retention và phản hồi tích cực ổn định.
 - Chứng minh được người xem nhận diện đúng định vị của từng kênh.
 - Xác nhận format tạo được khác biệt rõ giữa Nhà Có Maybach và Đợi Làm Bố.
+
+# GHI CHÚ KIẾN TRÚC
+
+Working Memory chỉ phản ánh trạng thái vận hành hiện tại.
+
+Không dùng Working Memory để lưu:
+
+- Tri thức đã xác nhận.
+- Taxonomy.
+- Data Bricks.
+- Assets.
+- Research Package.
+- Profile.
+
+Các nội dung trên thuộc các thành phần tương ứng của hệ thống.
+
+Nếu kiến trúc thay đổi, chỉ cập nhật trạng thái vận hành hiện tại, không chuyển Working Memory thành tài liệu thiết kế.
