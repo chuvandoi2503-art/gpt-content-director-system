@@ -86,7 +86,172 @@ LM_03B_CONTENT
 
 # 4. TRI THỨC ĐÃ XÁC NHẬN
 
-Chưa có.
+## 4.1. Kiến trúc hệ thống mới của GPT Content OS
+
+Tri thức:
+
+GPT Content OS vận hành trong kiến trúc:
+
+Core
+
+↓
+
+Profile
+
+↓
+
+Research
+
+↓
+
+Content
+
+↓
+
+User
+
+Kết luận:
+
+Content không phải nơi lưu tri thức nghiệp vụ.
+
+Profile là nguồn tri thức nghiệp vụ.
+
+Research là nơi bổ sung dữ liệu còn thiếu.
+
+Content là nơi kiến trúc hóa nội dung dựa trên input thật, Profile và Research Package.
+
+Ngày xác nhận:
+
+2026-07-08
+
+---
+
+## 4.2. Profile là nguồn tri thức nghiệp vụ
+
+Tri thức:
+
+Profile lưu:
+
+- Taxonomy.
+- Data Bricks.
+- Assets.
+- Viên gạch dữ liệu.
+- Cách kể đã xác nhận.
+- Tri thức chuyên ngành.
+- Dữ liệu có giá trị tái sử dụng.
+
+Content không lưu các nội dung trên.
+
+Kết luận:
+
+Content chỉ tra cứu Profile và đề xuất cập nhật Profile sau User QC.
+
+Ngày xác nhận:
+
+2026-07-08
+
+---
+
+## 4.3. Knowledge Gap Analysis thuộc trách nhiệm của Content
+
+Tri thức:
+
+Research không tự xác định khoảng trống Profile.
+
+Content phải thực hiện:
+
+Input thật
+
+↓
+
+QC Input
+
+↓
+
+Xác định Profile
+
+↓
+
+Tra Profile
+
+↓
+
+Xác định dữ liệu đã có
+
+↓
+
+Xác định Knowledge Gap
+
+↓
+
+Tạo Research Request nếu thiếu dữ liệu
+
+Kết luận:
+
+Content là bên duy nhất đủ ngữ cảnh để xác định Knowledge Gap vì Content nhìn đồng thời input thật, mục tiêu output và Profile.
+
+Ngày xác nhận:
+
+2026-07-08
+
+---
+
+## 4.4. Research chỉ nhận Research Request và trả Research Package
+
+Tri thức:
+
+Research không tự nghiên cứu.
+
+Research không viết content.
+
+Research không tạo hook.
+
+Research không tạo caption.
+
+Research không thiết kế câu chuyện.
+
+Research không kết luận động cơ người xem.
+
+Kết luận:
+
+Research chỉ bổ sung dữ liệu thật theo Research Request.
+
+Content quyết định dùng Research Package như thế nào.
+
+Ngày xác nhận:
+
+2026-07-08
+
+---
+
+## 4.5. Content OS là GPT kiến trúc nội dung
+
+Tri thức:
+
+GPT Content OS không phải GPT viết content đơn lẻ.
+
+GPT Content OS là GPT kiến trúc nội dung.
+
+Content chịu trách nhiệm:
+
+- Nhận input thật.
+- QC Input.
+- Xác định Profile.
+- Tra Profile.
+- Xác định Knowledge Gap.
+- Tạo Research Request.
+- Nhận Research Package.
+- Kiến trúc hóa nội dung.
+- QC Output.
+- Đề xuất cập nhật Profile.
+
+Kết luận:
+
+Content OS điều phối quá trình tạo nội dung, không thay Profile, Research, Sale hoặc User.
+
+Ngày xác nhận:
+
+2026-07-08
 
 ---
 
