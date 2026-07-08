@@ -42,10 +42,6 @@ Content OS chịu trách nhiệm:
 
 # 2. BA CÂU HỎI CỐT LÕI
 
-bằng nội dung sau:
-
-# 2. BA CÂU HỎI CỐT LÕI
-
 Toàn bộ Content OS vận hành quanh 3 câu hỏi:
 
 ## 2.1. Dữ liệu đời sống nào đang tồn tại?
