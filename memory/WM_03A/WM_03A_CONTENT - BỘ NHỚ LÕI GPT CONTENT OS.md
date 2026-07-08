@@ -567,6 +567,7 @@ Xây kiến trúc giá trị
 ↓
 
 Chuyển hóa thành nội dung
+
 ---
 
 # 7. NGUỒN CHÂN LÝ
