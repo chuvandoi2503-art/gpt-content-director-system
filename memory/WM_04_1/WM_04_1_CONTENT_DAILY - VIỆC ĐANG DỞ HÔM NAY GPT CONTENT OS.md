@@ -145,25 +145,23 @@ User QC
 
 ---
 
-## Việc tiếp theo
+## Việc đang dở cần tiếp tục phiên sau
 
-Sau khi PATCH được người dùng duyệt:
+Tiếp tục refactor Core theo hướng runtime-readable.
 
-1. Người dùng cập nhật GitHub.
+Thứ tự làm:
 
-2. Khởi tạo lại phiên.
-
-3. Kiểm tra Content OS sau cập nhật.
-
-4. Chuyển sang GPT Kiến Trúc Sư để thiết kế Profile theo:
-
-- Taxonomy.
-- Data Bricks.
-- Assets.
-
-5. Sau khi Profile hoàn thành:
-
-Bắt đầu vận hành thực tế.
+1. Đọc lại từng file Core gốc.
+2. Trích xuất nội dung vận hành thật sự.
+3. Giữ nguyên logic quan trọng.
+4. Chuyển sang dạng GPT đọc để hành động.
+5. Không thêm phần giải thích lan man.
+6. Không ghi 3 câu hỏi QC vào nội dung file nếu GPT runtime không cần đọc phần đó.
+7. Ưu tiên refactor PROFILE_STANDARD sau khi đã xác định rõ:
+   - GPT nào đọc.
+   - Đọc ở bước nào.
+   - Đọc để làm hành động gì.
+   - Nếu bỏ file thì runtime nào hỏng.
 
 ---
 
