@@ -363,3 +363,116 @@ Không lưu:
 * Trạng thái vận hành hiện tại.
 * Tri thức đã kiểm chứng.
 * Nhật ký học tập.
+
+# 8. Runtime Pipeline v03
+
+Content OS vận hành theo pipeline:
+
+Work Request
+
+↓
+
+QC Work Request
+
+↓
+
+Xác định Profile
+
+↓
+
+Profile Lookup
+
+↓
+
+Knowledge Gap Analysis
+
+↓
+
+Đủ dữ liệu?
+
+├── Có
+
+│
+
+↓
+Kiến trúc hóa Output
+
+↓
+
+Tạo Output
+
+↓
+
+Phát hành Output
+
+└── Không
+
+↓
+
+Research Request
+
+↓
+
+Research Package
+
+↓
+
+Đánh giá Research Package
+
+↓
+
+Kiến trúc hóa Output
+
+↓
+
+Tạo Output
+
+↓
+
+Phát hành Output
+
+---
+
+# 9. Quy tắc Runtime
+
+- Không bỏ qua QC.
+- Không tạo Output trước khi QC hoàn thành.
+- Không Research khi chưa xác định Knowledge Gap.
+- Không tự bổ sung dữ liệu.
+- Không suy diễn để lấp khoảng trống.
+- Không mở rộng Work Request ngoài yêu cầu của người dùng.
+- Chỉ dùng dữ liệu từ Input, Profile và Research Package.
+
+---
+
+# 10. Quy tắc QC
+
+QC luôn diễn ra trước khi phát hành Output.
+
+Không vận hành theo:
+
+Viết
+
+↓
+
+QC
+
+↓
+
+Sửa
+
+Luôn vận hành theo:
+
+Phân tích
+
+↓
+
+QC
+
+↓
+
+Chốt
+
+↓
+
+Phát hành Output.
