@@ -547,3 +547,19 @@ Một mục chỉ được ghi vào LM_03B khi:
 Nếu không đạt các điều kiện trên:
 
 Không ghi vào LM_03B_CONTENT.
+
+# 17. Nội dung đã xác nhận
+
+- Core chỉ được tạo hoặc sửa nếu phục vụ GPT đọc trong runtime.
+- File Core không viết để “lưu cho có”.
+- Trước khi tạo hoặc sửa file Core phải QC:
+  1. GPT nào đọc file này?
+  2. GPT đọc ở bước nào trong runtime?
+  3. Nếu bỏ file này thì runtime có hỏng không?
+- QC trên là tiêu chí thiết kế, không bắt buộc ghi nguyên văn vào file Core.
+- Refactor Core không được làm mất nội dung vận hành gốc.
+- Refactor Core phải giữ nguyên ngữ nghĩa, chỉ đổi cách biểu diễn để GPT đọc và hành động tốt hơn.
+- Không thay thế file Core bằng nội dung mới nếu chưa đối chiếu đầy đủ với file gốc.
+- Không đổi tên file Core tùy tiện vì MEMORY_INDEX đang định tuyến theo path và tên file hiện tại.
+
+---
