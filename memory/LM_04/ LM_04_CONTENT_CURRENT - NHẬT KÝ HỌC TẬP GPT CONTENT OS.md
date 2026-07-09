@@ -750,3 +750,97 @@ Chuyển sang thiết kế Research cho Hệ Bồ Đề.
 Câu hỏi trung tâm phiên sau:
 
 Research cần tạo ra loại dữ liệu đời sống nào để Content OS có thể khai thác không gian ý nghĩa cho Hệ Bồ Đề?
+
+
+# Bài học vận hành đã xác nhận
+
+## 1.
+
+Mọi thay đổi kiến trúc phải xuất phát từ điểm nghẽn trong vận hành thực tế.
+
+Không mở rộng hệ thống chỉ vì hợp lý trên lý thuyết.
+
+---
+
+## 2.
+
+Trước khi đề xuất thành phần mới phải tự trả lời:
+
+- Có phát sinh từ vận hành thực tế không?
+- Không thêm thành phần thì có giải quyết được không?
+- Thành phần mới có làm hệ thống đơn giản hơn không?
+
+Nếu chưa chứng minh được thì không đề xuất.
+
+---
+
+## 3.
+
+Profile không phải nơi để Content đọc toàn bộ.
+
+Profile phải phục vụ Lookup.
+
+Content chỉ tra đúng nhóm dữ liệu cần thiết.
+
+---
+
+## 4.
+
+Knowledge Gap không phải danh sách mọi dữ liệu còn thiếu.
+
+Knowledge Gap chỉ là phần dữ liệu còn thiếu khiến Content chưa thể tạo đúng Output.
+
+---
+
+## 5.
+
+Research chỉ bắt đầu sau khi Knowledge Gap hoàn thành.
+
+Research không tự xác định khoảng thiếu.
+
+Research không tạo Content.
+
+Research không tạo Insight.
+
+Research chỉ trả dữ liệu.
+
+---
+
+## 6.
+
+Content quyết định:
+
+- Có cần Research hay không.
+- Cần Research dữ liệu gì.
+- Dùng Data Bricks nào.
+- Bỏ Data Bricks nào.
+
+---
+
+## 7.
+
+Một Runtime chung có thể phục vụ nhiều Profile.
+
+Nhưng cách kiến trúc Output có thể khác nhau.
+
+Ví dụ:
+
+- Bồ Đề Việt ưu tiên khai thác không gian ý nghĩa.
+- Đợi Bồ Đề ưu tiên chứng minh giá trị từ Input thật.
+- Nhà Có Maybach ưu tiên lưu giữ khoảnh khắc và kỷ niệm.
+
+Pipeline không đổi.
+
+Chỉ thay đổi cách kiến trúc Output.
+
+---
+
+## 8.
+
+Business Specification chỉ mô tả nghiệp vụ.
+
+Profile chịu trách nhiệm tri thức.
+
+Research chịu trách nhiệm bổ sung dữ liệu.
+
+Content chịu trách nhiệm kiến trúc Output.
