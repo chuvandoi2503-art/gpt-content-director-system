@@ -168,11 +168,11 @@ gpt-content-director-system
 
 Path:
 
-knowledge/KN_02_CONTENT - ĐẶC TẢ NGHIỆP VỤ GPT CONTENT OS.md
+knowledge/KN_02_CONTENT - HỒ SƠ LĨNH VỰC GPT CONTENT OS.md
 
 Mô tả:
 
-Nghiệp vụ của GPT CONTENT OS.
+Lĩnh vực của GPT CONTENT OS.
 
 Trạng thái:
 
