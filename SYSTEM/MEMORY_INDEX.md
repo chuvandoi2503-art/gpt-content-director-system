@@ -1,6 +1,6 @@
 # MEMORY_INDEX
 
-Phiên bản: 03.001
+Phiên bản: 04.000
 
 ---
 
@@ -22,29 +22,79 @@ gpt-system-core
 
 # MỤC ĐÍCH
 
-Memory Index là bản đồ định vị memory của GPT CONTENT OS.
+Memory Index là bản đồ định vị Runtime của GPT CONTENT OS.
 
-GPT phải đọc file này trước khi truy cập memory runtime.
+GPT phải đọc file này trước khi truy cập Runtime Repository.
+
+Memory Index dùng để:
+
+- Định vị Core.
+- Định vị Runtime.
+- Định vị Memory.
+- Định vị Knowledge.
+- Xác định Load Strategy.
 
 Không tự suy đoán path.
 
-Không dùng memory hội thoại làm nguồn chân lý.
+Không sử dụng Memory hội thoại làm nguồn chân lý.
 
 ---
 
 # CORE REPOSITORY
 
-## RULE_COMMON
-
 Repository:
 
 gpt-system-core
 
+## 00 - HIẾN PHÁP GPT
+
 Path:
 
-rules/RULE_COMMON - QUY TẮC CHUNG TOÀN HỆ GPT.md
+CORE/00 - HIẾN PHÁP GPT.md
 
 ---
+
+## 01 - QUY TẮC VẬN HÀNH
+
+Path:
+
+CORE/01 - QUY TẮC VẬN HÀNH.md
+
+---
+
+## 02 - TIÊU CHUẨN PHÂN TÁCH TRÁCH NHIỆM
+
+Path:
+
+CORE/02 - TIÊU CHUẨN PHÂN TÁCH TRÁCH NHIỆM.md
+
+---
+
+## 03 - TIÊU CHUẨN HỒ SƠ
+
+Path:
+
+CORE/03 - TIÊU CHUẨN HỒ SƠ.md
+
+---
+
+## 04 - TIÊU CHUẨN PATCH
+
+Path:
+
+CORE/04 - TIÊU CHUẨN PATCH.md
+
+---
+
+## 05 - NGUYÊN TẮC KIẾN TRÚC
+
+Path:
+
+CORE/05 - NGUYÊN TẮC KIẾN TRÚC.md
+
+---
+
+# SYSTEM (CORE)
 
 ## MEMORY_ARCHITECTURE
 
@@ -118,17 +168,21 @@ gpt-content-director-system
 
 Path:
 
-knowledge/KN_02_CONTENT - HỒ SƠ LĨNH VỰC GPT CONTENT OS.md
+knowledge/KN_02_CONTENT - ĐẶC TẢ NGHIỆP VỤ GPT CONTENT OS.md
+
+Mô tả:
+
+Nghiệp vụ của GPT CONTENT OS.
+
+Trạng thái:
+
+LOAD_ON_DEMAND
 
 ---
 
 # WORKING MEMORY
 
 ## WM_03A_CONTENT
-
-Repository:
-
-gpt-content-director-system
 
 Path:
 
@@ -138,10 +192,6 @@ memory/WM_03A/WM_03A_CONTENT - BỘ NHỚ LÕI GPT CONTENT OS.md
 
 ## WM_04_1_CONTENT_DAILY
 
-Repository:
-
-gpt-content-director-system
-
 Path:
 
 memory/WM_04_1/WM_04_1_CONTENT_DAILY - VIỆC ĐANG DỞ HÔM NAY GPT CONTENT OS.md
@@ -149,10 +199,6 @@ memory/WM_04_1/WM_04_1_CONTENT_DAILY - VIỆC ĐANG DỞ HÔM NAY GPT CONTENT OS
 ---
 
 ## WM_04_1_CONTENT_LONG
-
-Repository:
-
-gpt-content-director-system
 
 Path:
 
@@ -164,10 +210,6 @@ memory/WM_04_1/WM_04_1_CONTENT_LONG - VIỆC ĐANG DỞ DÀI HẠN GPT CONTENT O
 
 ## LM_03B_CONTENT_CURRENT
 
-Repository:
-
-gpt-content-director-system
-
 Path:
 
 memory/LM_03B/LM_03B_CONTENT_CURRENT - TRI THỨC ĐÃ KIỂM CHỨNG GPT CONTENT OS.md
@@ -175,10 +217,6 @@ memory/LM_03B/LM_03B_CONTENT_CURRENT - TRI THỨC ĐÃ KIỂM CHỨNG GPT CONTEN
 ---
 
 ## LM_03B_CONTENT_ARCHIVE_001
-
-Repository:
-
-gpt-content-director-system
 
 Path:
 
@@ -188,10 +226,6 @@ memory/LM_03B/LM_03B_CONTENT_ARCHIVE_001 - TRI THỨC LƯU TRỮ GPT CONTENT OS.
 
 ## LM_04_CONTENT_CURRENT
 
-Repository:
-
-gpt-content-director-system
-
 Path:
 
 memory/LM_04/LM_04_CONTENT_CURRENT - NHẬT KÝ HỌC TẬP GPT CONTENT OS.md
@@ -200,17 +234,13 @@ memory/LM_04/LM_04_CONTENT_CURRENT - NHẬT KÝ HỌC TẬP GPT CONTENT OS.md
 
 ## LM_04_CONTENT_ARCHIVE_2026_06
 
-Repository:
-
-gpt-content-director-system
-
 Path:
 
 memory/LM_04/LM_04_CONTENT_ARCHIVE_2026_06 - NHẬT KÝ LƯU TRỮ GPT CONTENT OS.md
 
 ---
 
-# SYSTEM
+# SYSTEM (RUNTIME)
 
 ## GPT_BUILDER_BACKUP
 
@@ -236,17 +266,46 @@ SYSTEM/QUY_TAC_CHI_MUC_TU_LIEU.md
 
 ---
 
+# KNOWLEDGE UPLOAD STANDARD
+
+GPT CONTENT OS phải tải mặc định:
+
+- CORE/00 - HIẾN PHÁP GPT.md
+- CORE/01 - QUY TẮC VẬN HÀNH.md
+- CORE/02 - TIÊU CHUẨN PHÂN TÁCH TRÁCH NHIỆM.md
+- CORE/05 - NGUYÊN TẮC KIẾN TRÚC.md
+
+---
+
 # KHỞI TẠO PHIÊN MẶC ĐỊNH
 
-Khi khởi tạo phiên, nạp:
+## BƯỚC 1
 
-- RULE_COMMON
+Đọc:
+
+- CORE/03 - TIÊU CHUẨN HỒ SƠ.md
+- CORE/04 - TIÊU CHUẨN PATCH.md
+
+Repository:
+
+gpt-system-core
+
+---
+
+## BƯỚC 2
+
+Đọc Runtime:
+
 - RULE_CONTENT
 - WM_03A_CONTENT
 - WM_04_1_CONTENT_DAILY
 - LM_03B_CONTENT_CURRENT
 
-Không nạp mặc định:
+---
+
+# LOAD ON DEMAND
+
+Chỉ đọc khi cần:
 
 - KN_02_CONTENT
 - WM_04_1_CONTENT_LONG
@@ -254,20 +313,71 @@ Không nạp mặc định:
 - LM_04_CONTENT_CURRENT
 - LM_04_CONTENT_ARCHIVE
 
-Chỉ đọc khi cần.
+- MEMORY_ARCHITECTURE
+- PATCH_STANDARD
+- GITHUB_WRITE_POLICY
+- NAMING_CONVENTION
+
+- GPT_BUILDER_BACKUP
+- QUY_TAC_CHI_MUC_TU_LIEU
 
 ---
 
-# GHI CHÚ CHUYỂN ĐỔI
+# LOAD STRATEGY
 
-File này chuẩn hóa GPT CONTENT OS theo Memory Architecture 03.001.
+AUTO LOAD:
 
-Các file memory cũ dạng phẳng cần được chuyển sang cấu trúc thư mục:
+- CORE/00
+- CORE/01
+- CORE/02
+- CORE/05
 
-memory/WM_03A/
+---
 
-memory/WM_04_1/
+SESSION LOAD:
 
-memory/LM_03B/
+- CORE/03
+- CORE/04
 
-memory/LM_04/
+- RULE_CONTENT
+- WM_03A_CONTENT
+- WM_04_1_CONTENT_DAILY
+- LM_03B_CONTENT_CURRENT
+
+---
+
+LOAD ON DEMAND:
+
+- KNOWLEDGE
+- LONG MEMORY
+- SYSTEM
+- ARCHIVE
+
+---
+
+# TRẠNG THÁI SAU KHỞI TẠO
+
+GPT CONTENT OS phải biết:
+
+- Mình là ai.
+- Đang làm gì.
+- Công việc đang dở.
+- Tri thức đã kiểm chứng hiện tại.
+- Trạng thái phiên.
+
+---
+
+# NGUYÊN TẮC CUỐI CÙNG
+
+Memory Index là bản đồ của Runtime Repository.
+
+GPT CONTENT OS không được nạp toàn bộ Repository khi khởi tạo phiên.
+
+Chỉ nạp tối thiểu để bắt đầu vận hành.
+
+Mọi quyết định kiến trúc phải tuân thủ:
+
+- Thực tế > Lý thuyết.
+- Vận hành được > Kiến trúc đẹp.
+- Kiến trúc đi trước thực tế tối đa 1–2 bước.
+- Nếu ngày mai không dùng thì hôm nay không xây.
